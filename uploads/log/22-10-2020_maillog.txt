@@ -1,0 +1,74 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-22 10:26:47
+    [mail Send] => Leave Request
+    [Employee Name] => Kaitlyn Williams
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kaithenn17@yahoo.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-10-22 12:59:47
+    [Employee Name] => Ryan Hurst
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to rch5111@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-22 12:59:51
+    [Employee Name] => Kaitlyn Williams
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kaithenn17@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-22 13:24:28
+    [Employee Name] => adina greenbaum
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to adinagreenbin@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-22 18:35:25
+    [mail Send] => Leave Request
+    [Employee Name] => Heather VanAllman
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to hmstanton@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-22 20:12:35
+    [mail Send] => Leave Request
+    [Employee Name] => Lona Beckford
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to lona.l.beckford@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-22 21:46:06
+    [mail Send] => Leave Request
+    [Employee Name] => Joseph Bukosky
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to joebukosky@verizon.net
+)

@@ -1,0 +1,104 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-09 08:35:31
+    [mail Send] => Leave Request
+    [Employee Name] => Sheila  Akiatan
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sheilamarie0628@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-09 10:19:07
+    [Employee Name] => Greggy Rayos
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sup.manchester@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-09 10:45:34
+    [mail Send] => Leave Request
+    [Employee Name] => Jayme DiDomenico
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jdidomenico0786@alumni.harcum.edu
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-09 12:54:58
+    [mail Send] => Leave Request
+    [Employee Name] => Shaun Bartlow
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sb4272@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-09 14:44:40
+    [Employee Name] => Jayme DiDomenico
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jdidomenico0786@alumni.harcum.edu
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-09 14:47:50
+    [Employee Name] => Sheila  Akiatan
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sheilamarie0628@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-09 15:02:19
+    [Employee Name] => Archana Doshi
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to archanad77@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-09 15:19:59
+    [Employee Name] => Shaun Bartlow
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sb4272@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-09 15:21:42
+    [Employee Name] => Shaun Bartlow
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sb4272@aol.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-09 17:31:19
+    [mail Send] => Leave Request
+    [Employee Name] => Ethel Dunbar 
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to etheldunbar@icloud.com
+)

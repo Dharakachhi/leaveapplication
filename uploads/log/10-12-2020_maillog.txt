@@ -1,0 +1,106 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-10 09:22:37
+    [Employee Name] => Laura Ventimiglia
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to wavgymnast@aol.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-10 09:55:59
+    [mail Send] => Leave Request
+    [Employee Name] => Ashley Cabalo
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to ashleyjns414@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-10 11:08:18
+    [mail Send] => Leave Request
+    [Employee Name] => Bridget  Reilly
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Bridget_Reilly@aol.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-10 11:18:57
+    [mail Send] => Leave Request
+    [Employee Name] => Karolina Podkalicki
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to karolcia_09@wp.pl
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-10 11:19:24
+    [mail Send] => Leave Request
+    [Employee Name] => Venezia Vega
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Veneziavega11@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-10 11:23:37
+    [Employee Name] => Bridget  Reilly
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Bridget_Reilly@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-10 11:50:17
+    [Employee Name] => Tracy Hojnowski
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Tracyhojo@frontier.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-10 12:20:12
+    [Employee Name] => Ashley Cabalo
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to ashleyjns414@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-10 14:03:33
+    [mail Send] => Leave Request
+    [Employee Name] => Steven Manis
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to smanis26@live.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-10 17:04:55
+    [mail Send] => Leave Request
+    [Employee Name] => Suruch Patel
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to suruch.patel@gmail.com
+)

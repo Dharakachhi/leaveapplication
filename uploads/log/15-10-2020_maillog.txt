@@ -1,0 +1,64 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-15 07:33:26
+    [mail Send] => Leave Request
+    [Employee Name] => eva walczyk
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to evajan121301@msn.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-15 10:40:13
+    [mail Send] => Leave Request
+    [Employee Name] => Catherine Burba
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cburba424@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-15 11:16:40
+    [Employee Name] => Tzipora Horowitz
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to tziporahorowitz@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-15 13:14:25
+    [mail Send] => Leave Request
+    [Employee Name] => Nortelina  Casanova 
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to nortegtolentino@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-15 13:23:18
+    [mail Send] => Leave Request
+    [Employee Name] => Erin  Gonzalez
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Erin.gonzalez123@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-15 16:16:05
+    [Employee Name] => eva walczyk
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to evajan121301@msn.com
+)

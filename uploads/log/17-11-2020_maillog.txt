@@ -1,0 +1,157 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-17 08:27:36
+    [mail Send] => Leave Request
+    [Employee Name] => Susan Schmoldt
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sschmoldt88@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-17 09:28:54
+    [mail Send] => Leave Request
+    [Employee Name] => Rachel Duncan
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to rduncanpta@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-17 10:23:17
+    [mail Send] => Leave Request
+    [Employee Name] => Anjanee  Ramroop 
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to angiramoop@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-17 10:39:08
+    [Employee Name] => Danielle Hannon
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to daniclaire1129@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-17 10:40:29
+    [Employee Name] => Pasquale Morvillo
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to pmorvill@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-17 10:47:48
+    [Employee Name] => Rachel Duncan
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to rduncanpta@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-17 10:54:28
+    [Employee Name] => Marissa  Dela Cruz
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to mardelax@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-17 11:09:19
+    [Employee Name] => Vitor Nunes
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Nunes_14_@hotmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-17 11:25:28
+    [Employee Name] => Susan Schmoldt
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sschmoldt88@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-17 11:50:54
+    [Employee Name] => Anjanee  Ramroop 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to angiramoop@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-17 13:39:39
+    [mail Send] => Leave Request
+    [Employee Name] => Mitchell Asch
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to aschmitchell@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-17 16:18:33
+    [mail Send] => Leave Request
+    [Employee Name] => Jessica Zerbo
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jessze5@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-17 16:41:20
+    [Employee Name] => Jessica Zerbo
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jessze5@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-17 16:47:16
+    [mail Send] => Leave Request
+    [Employee Name] => Terri Ocean
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to terriocean@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-17 21:57:53
+    [mail Send] => Leave Request
+    [Employee Name] => Wendi Korn
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Wendikorn@gmail.com
+)

@@ -1,0 +1,61 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-06 09:22:36
+    [Employee Name] => Shoma Agni
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to shomaagni@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-06 09:23:18
+    [Employee Name] => Mandy Cook
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to scooby_doll30@hotmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-06 09:33:37
+    [Employee Name] => Mandy Cook
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to scooby_doll30@hotmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-06 09:47:52
+    [Employee Name] => Sasha Kalra
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Sashak94@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-06 12:14:18
+    [Employee Name] => Kristin Nightingale
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to nightingalekristin@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-06 15:31:44
+    [mail Send] => Leave Request
+    [Employee Name] => Heather Nybo
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Heather.nybo@yahoo.com
+)

@@ -1,0 +1,62 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-21 09:41:27
+    [mail Send] => Leave Request
+    [Employee Name] => Crystal Espieg
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to crystal.espieg@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-21 12:06:48
+    [Employee Name] => Tenisha Brathwaite
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to tenishabrathwaite@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-21 12:16:04
+    [Employee Name] => Jackline Kimata
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jackiekimata@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-21 12:24:38
+    [Employee Name] => Darnethia Jackson
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to djwyn@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-21 12:33:46
+    [Employee Name] => Crystal Espieg
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to crystal.espieg@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-21 12:41:24
+    [Employee Name] => Rony Andrews
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to ronynj1991@hotmail.com
+)

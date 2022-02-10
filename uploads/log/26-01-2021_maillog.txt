@@ -1,0 +1,132 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-26 10:49:28
+    [mail Send] => Leave Request
+    [Employee Name] => Ric Dizon
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sgt_pepper1476@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-26 11:09:04
+    [Employee Name] => Josef Anthony Tenorio
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to josefanthonyt@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-26 11:48:50
+    [Employee Name] => Marites McNally
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Thess_al40@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-26 12:18:09
+    [Employee Name] => fati saeed
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to fmsaeed87@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-26 12:40:20
+    [Employee Name] => Supraja Angaru 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Supraja.mpt@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-26 13:02:48
+    [Employee Name] => Supraja  Angaru
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Supraja.mpt@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-26 13:15:10
+    [Employee Name] => Debra Gittens
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to d.gittens@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-26 14:40:20
+    [mail Send] => Leave Request
+    [Employee Name] => Vanessa Hyer
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Hyerpta3@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-26 15:33:12
+    [Employee Name] => Ric Dizon
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sgt_pepper1476@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-26 15:48:15
+    [Employee Name] => Vanessa Hyer
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Hyerpta3@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-26 16:04:23
+    [Employee Name] => Tina Hunt
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to hunting4homes@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-26 16:11:23
+    [Employee Name] => Tina Hunt
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to hunting4homes@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-26 16:45:25
+    [Employee Name] => Victoria Gonzalez
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Vmrodriguez.89@gmail.com
+)

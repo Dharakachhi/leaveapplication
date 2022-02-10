@@ -1,0 +1,11 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-12 23:10:14
+    [mail Send] => Leave Request
+    [Employee Name] => Daniel Jamokha
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to danieljamokha@gmail.com
+)

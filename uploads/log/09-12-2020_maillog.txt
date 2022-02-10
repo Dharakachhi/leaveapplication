@@ -1,0 +1,123 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-09 10:16:05
+    [mail Send] => Leave Request
+    [Employee Name] => Ronaldo Espina
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to onat64@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-09 10:55:56
+    [Employee Name] => Angelito Anonuevo
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to bong.anonuevo@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-09 11:02:23
+    [Employee Name] => Angelito Anonuevo
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to bong.anonuevo@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-09 11:02:52
+    [Employee Name] => Alissa Burneyko
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to alleycatalto504@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-09 11:37:43
+    [Employee Name] => Katelyn Sharpe
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kshock7273@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-09 11:46:11
+    [Employee Name] => Alissa Burneyko
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to alleycatalto504@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-09 11:58:41
+    [Employee Name] => Jacy Silva
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jacysilva2000@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-09 12:10:15
+    [Employee Name] => gladys laroche
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to gladddy@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-09 12:16:19
+    [Employee Name] => Ronaldo Espina
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to onat64@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-09 12:33:25
+    [Employee Name] => Deanna Solomon
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Deannasolomon196@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-09 13:37:03
+    [mail Send] => Leave Request
+    [Employee Name] => Tracy Hojnowski
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Tracyhojo@frontier.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-09 17:06:50
+    [mail Send] => Leave Request
+    [Employee Name] => Laura Ventimiglia
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to wavgymnast@aol.com
+)

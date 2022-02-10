@@ -1,0 +1,55 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-15 12:58:12
+    [mail Send] => Leave Request
+    [Employee Name] => Tiffany  Guerrero
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to finniept@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-15 22:30:11
+    [mail Send] => Leave Request
+    [Employee Name] => Julianne Gorge
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.buckingham@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-15 22:57:20
+    [mail Send] => Leave Request
+    [Employee Name] => Kristen  Burbridge
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kristenburbridge@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-15 23:00:10
+    [mail Send] => Leave Request
+    [Employee Name] => Julianne Gorge
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to julianne.gorge@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-15 23:06:57
+    [mail Send] => Leave Request
+    [Employee Name] => Kristoffer Rivera
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kristofferrivera4@gmail.com
+)

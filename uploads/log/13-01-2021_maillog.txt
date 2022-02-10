@@ -1,0 +1,521 @@
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-13 08:25:16
+    [Employee Name] => megha1854 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [employee mail subject] => New Request Employee
+    [supervisor mail subject] => New Request Supervisor
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-13 08:27:05
+    [Employee Name] => fa fds
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to benefits@tendertouch.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to fsa@gmail.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-13 08:32:01
+    [Employee Name] => megha1854 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to benefits@tendertouch.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-13 08:34:59
+    [Employee Name] => megha1854 makwana
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [mail subject] => Denied Request
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-13 08:35:01
+    [Employee Name] => test_bhumi test_patel
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to test84587@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.abigail@tendertouch.com
+    [employee mail subject] => New Request Employee
+    [supervisor mail subject] => New Request Supervisor
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-13 08:35:31
+    [mail Send] => Leave Request
+    [Employee Name] => Jerrika Lingle
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jerrikahaven@gmail.com
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-13 08:40:31
+    [Employee Name] => meghatest1909 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [employee mail subject] => New Request Employee
+    [supervisor mail subject] => New Request Supervisor
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-13 08:43:04
+    [Employee Name] => meghatest1909 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to benefits@tendertouch.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-13 08:48:39
+    [Employee Name] => meghatest1909 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to benefits@tendertouch.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-13 08:53:38
+    [Employee Name] => meghatest1909 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to benefits@tendertouch.com
+            [1] => Mail Send Successfully to meghatest5678@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-13 08:54:01
+    [Employee Name] => Dhara K
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to benefits@tendertouch.com
+            [1] => Mail Send Successfully to meghatest5678@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to test84587@gmail.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-13 08:55:28
+    [Employee Name] => meghatest1909 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to benefits@tendertouch.com
+            [1] => Mail Send Successfully to meghatest5678@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-13 08:58:12
+    [Employee Name] => meghatest1909 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => Completed Request
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-13 09:03:33
+    [Employee Name] => meghatest1909 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => Cancel
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-13 09:05:59
+    [Employee Name] => meghatest1909 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => Cancel
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-13 09:11:01
+    [Employee Name] => megha makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [employee mail subject] => New Request Employee
+    [supervisor mail subject] => New Request Supervisor
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-13 09:12:18
+    [Employee Name] => megha makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to benefits@tendertouch.com
+            [1] => Mail Send Successfully to meghatest5678@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-13 09:13:09
+    [Employee Name] => megha makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to benefits@tendertouch.com
+            [1] => Mail Send Successfully to meghatest5678@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-13 09:18:31
+    [Employee Name] => megha makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => Completed Request
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-13 09:21:00
+    [Employee Name] => megha makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => Cancel
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-13 09:27:45
+    [Employee Name] => megha makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => Cancel
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-13 09:30:57
+    [Employee Name] => Feliz Marie Solis
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to solisfeliz@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-13 09:40:26
+    [Employee Name] => Christina Mckinney
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kcmckinney598@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-13 09:51:12
+    [mail Send] => Leave Request
+    [Employee Name] => Jelle Lasam
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jellemarielasam@gmail.com
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-13 10:35:46
+    [Employee Name] => CHAIM POLLAK102
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+    [Email Send to Supervisor] => Mail Send Successfully to chaim@cmpollak.com
+    [employee mail subject] => New Request Employee
+    [supervisor mail subject] => New Request Supervisor
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-13 10:37:01
+    [Employee Name] => CHAIM POLLAK102
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+            [2] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to benefits@tendertouch.com
+            [1] => Mail Send Successfully to meghatest5678@gmail.com
+            [2] => Mail Send Successfully to cmp19000@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-13 10:38:44
+    [Employee Name] => CHAIM POLLAK102
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+    [Email Send to Supervisor] => Mail Send Successfully to chaim@cmpollak.com
+    [mail subject] => Completed Request
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-13 14:40:05
+    [Employee Name] => CHAIM POLLAK101
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+    [Email Send to Supervisor] => Mail Send Successfully to chaim@cmpollak.com
+    [employee mail subject] => New Request Employee
+    [supervisor mail subject] => New Request Supervisor
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-13 14:41:00
+    [Employee Name] => CHAIM POLLAK101
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to meghatest5678@gmail.com
+            [1] => Mail Send Successfully to cmp19000@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+    [mail subject] => Employee Approved Request
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-13 14:41:26
+    [Employee Name] => CHAIM POLLAK101
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+    [Email Send to Supervisor] => Mail Send Successfully to chaim@cmpollak.com
+    [mail subject] => Employee Completed Request
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-13 14:44:22
+    [mail Send] => Leave Request
+    [Employee Name] => Swapnil Malthane
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to swapnilm2903@gmail.com
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-13 14:45:49
+    [Employee Name] => CHAIM POLLAK103
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+    [Email Send to Supervisor] => Mail Send Successfully to chaim@cmpollak.com
+    [employee mail subject] => New Request Employee
+    [supervisor mail subject] => New Request Supervisor
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-13 14:46:13
+    [Employee Name] => CHAIM POLLAK103
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+    [mail subject] => Employee Denied Request
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-13 15:05:17
+    [mail Send] => Leave Request
+    [Employee Name] => Bianca Buonomo
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to bianca.buonoma@outlook.com
+)

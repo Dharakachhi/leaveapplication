@@ -1,0 +1,11 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-12 15:55:51
+    [mail Send] => Leave Request
+    [Employee Name] => Magnolia  Cabrera
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Jcedith2@gmail.com
+)

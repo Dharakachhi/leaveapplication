@@ -1,0 +1,88 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-24 08:47:56
+    [mail Send] => Leave Request
+    [Employee Name] => Mandy Cook
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to scooby_doll@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-24 10:25:20
+    [mail Send] => Leave Request
+    [Employee Name] => Mandy Cook
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to scooby_doll30@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-24 11:00:51
+    [mail Send] => Leave Request
+    [Employee Name] => Dhaval  Shah 
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Dhaval.physio@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-24 11:37:32
+    [mail Send] => Leave Request
+    [Employee Name] => Yvette Tebo
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to ytebo@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-24 12:40:38
+    [mail Send] => Leave Request
+    [Employee Name] => Miriam Jordan
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.manchester@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-24 14:32:37
+    [mail Send] => Leave Request
+    [Employee Name] => MaryAnn Ricarde
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kurt_erika@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-24 16:12:55
+    [mail Send] => Leave Request
+    [Employee Name] => Sean Asante
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Monktheprophet@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-24 17:10:06
+    [mail Send] => Leave Request
+    [Employee Name] => Merkeb Ghile
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to merkiko09@gmail.com
+)

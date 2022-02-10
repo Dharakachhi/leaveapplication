@@ -1,0 +1,34 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-09 07:58:19
+    [mail Send] => Leave Request
+    [Employee Name] => Alkaid Giabia
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to alkaid_giabia@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-09 11:48:54
+    [mail Send] => Leave Request
+    [Employee Name] => Patrick Huerta
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cloverscut@msn.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-09 12:40:09
+    [mail Send] => Leave Request
+    [Employee Name] => Emily Phillips
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to emily.phillips1101@gmail.com
+)

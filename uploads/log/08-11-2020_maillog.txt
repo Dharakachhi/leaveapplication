@@ -1,0 +1,11 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-08 09:59:41
+    [mail Send] => Leave Request
+    [Employee Name] => Greggy Rayos
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.manchester@tendertouch.com
+)

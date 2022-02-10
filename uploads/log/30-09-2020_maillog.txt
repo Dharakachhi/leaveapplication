@@ -1,0 +1,109 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-30 12:27:02
+    [mail Send] => Leave Request
+    [Employee Name] => Tiffani Rupert
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to tiffanimae6884@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-30 12:31:03
+    [mail Send] => Leave Request
+    [Employee Name] => Mandy Cook
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to scooby_doll30@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-30 13:32:24
+    [mail Send] => Leave Request
+    [Employee Name] => David  Gilio
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.westgatehlspa@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-30 14:09:43
+    [mail Send] => Leave Request
+    [Employee Name] => AMY SECREST
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to luvs2bfree@msn.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-30 14:58:34
+    [mail Send] => Leave Request
+    [Employee Name] => Katelyn Bundy
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to katelyn.maille@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-30 15:32:01
+    [mail Send] => Leave Request
+    [Employee Name] => Amy Lawson
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to ridgepointfarm457@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-30 16:28:55
+    [mail Send] => Leave Request
+    [Employee Name] => Lauren White
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to lewwhite95@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-30 16:41:05
+    [mail Send] => Leave Request
+    [Employee Name] => Melodie Atherton
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to melatherton53@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-30 16:47:53
+    [Employee Name] => Amy Lawson
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to ridgepointfarm457@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-30 23:42:05
+    [mail Send] => Leave Request
+    [Employee Name] => Leah  Pellicone
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Leahmasna@icloud.com
+)

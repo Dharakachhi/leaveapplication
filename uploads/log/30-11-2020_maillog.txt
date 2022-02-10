@@ -1,0 +1,94 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-30 09:28:28
+    [Employee Name] => Wendy  Leger
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to legwen822@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-30 09:28:45
+    [Employee Name] => Wendy Leger
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Legwen822@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-30 09:33:03
+    [Employee Name] => Maria Cavada
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to marialourdescavada@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-30 09:47:54
+    [Employee Name] => Maria Cavada
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to marialourdescavada@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-30 11:12:17
+    [Employee Name] => ARSENIO BUTIC
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to arseniobjr@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-30 12:33:29
+    [mail Send] => Leave Request
+    [Employee Name] => Holly Rider
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to hrider12@verizon.net
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-30 12:42:02
+    [mail Send] => Leave Request
+    [Employee Name] => Antoinette Miraglia
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to antoinette.miraglia@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-30 14:02:08
+    [mail Send] => Leave Request
+    [Employee Name] => Shanna Myers
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Jershan4@verizon.net
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-30 15:15:32
+    [mail Send] => Leave Request
+    [Employee Name] => Sheila  Avinante 
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.somerset@tendertouch.com
+)

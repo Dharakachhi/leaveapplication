@@ -1,0 +1,73 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-03 11:42:09
+    [mail Send] => Leave Request
+    [Employee Name] => Julie Stuart
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jeugee@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-03 12:48:00
+    [mail Send] => Leave Request
+    [Employee Name] => Mitchell  Asch
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Aschmitchell@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-03 13:05:00
+    [Employee Name] => Sarah marceca
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to s.marceca@aol.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-03 14:10:55
+    [mail Send] => Leave Request
+    [Employee Name] => Jonita Rivas
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jonitz@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-03 15:02:34
+    [Employee Name] => Shannon Pavone
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Pavone.shannon@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-03 15:08:07
+    [Employee Name] => Natalie Miller
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Nataliemariemiller95@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-03 15:16:48
+    [Employee Name] => Julie Stuart
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jeugee@gmail.com
+)

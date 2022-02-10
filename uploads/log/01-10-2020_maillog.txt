@@ -1,0 +1,216 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-01 08:32:26
+    [mail Send] => Leave Request
+    [Employee Name] => Skye Zeallor
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to skyeblu728@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-01 10:29:36
+    [mail Send] => Leave Request
+    [Employee Name] => Pedro Silva
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Pedraosp85@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-01 10:46:53
+    [mail Send] => Leave Request
+    [Employee Name] => laMichael blount
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to blount2mack@yahoo.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2020-10-01 11:39:11
+    [Employee Name] => AMY SECREST
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to luvs2bfree@msn.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 12:04:57
+    [Employee Name] => Naomi Morris
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Nangel21@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 12:21:15
+    [Employee Name] => Tiffani Rupert
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to tiffanimae6884@hotmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 12:26:33
+    [Employee Name] => Lauren White
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to lewwhite95@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 12:43:14
+    [Employee Name] => Skye Zeallor
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to skyeblu728@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 12:46:48
+    [Employee Name] => Brandon  Litzenberger 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Blitzenberger189@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 12:47:11
+    [Employee Name] => Pedro Silva
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Pedraosp85@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 12:49:18
+    [Employee Name] => Katelyn Bundy
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to katelyn.maille@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 12:52:12
+    [Employee Name] => Mandy Cook
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to scooby_doll30@hotmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 12:57:33
+    [Employee Name] => Melodie Atherton
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to melatherton53@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-01 13:36:27
+    [mail Send] => Leave Request
+    [Employee Name] => Kathleen Murray
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Kathymcd14@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 13:42:34
+    [Employee Name] => David  Gilio
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sup.westgatehlspa@tendertouch.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 13:50:17
+    [Employee Name] => laMichael blount
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to blount2mack@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-01 13:54:44
+    [mail Send] => Leave Request
+    [Employee Name] => Janna Poquiz
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jannapoquiz@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 14:09:29
+    [Employee Name] => Christine  Deviney
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to cdeviney6580@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 14:12:56
+    [Employee Name] => Christine  Deviney
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to cdeviney6580@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-01 14:15:44
+    [Employee Name] => Nyemade Kaizer
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Nyemade_Williams@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-01 15:16:45
+    [mail Send] => Leave Request
+    [Employee Name] => Shoma Agni
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to shomaagni@gmail.com
+)

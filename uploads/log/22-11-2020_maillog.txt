@@ -1,0 +1,33 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-22 09:48:37
+    [mail Send] => Leave Request
+    [Employee Name] => Amanda  Weaver
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to amweaver02@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-22 12:49:09
+    [mail Send] => Leave Request
+    [Employee Name] => Kelsey Iverson
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kelseyiverson88@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-22 12:50:56
+    [mail Send] => Leave Request
+    [Employee Name] => Jasmine Cruz
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Cruzj93@gmail.com
+)

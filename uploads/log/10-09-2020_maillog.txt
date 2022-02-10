@@ -1,0 +1,22 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-10 00:30:52
+    [mail Send] => Leave Request
+    [Employee Name] => Test Destiny
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to testoffice9@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-10 16:42:22
+    [mail Send] => Leave Request
+    [Employee Name] => Hadassah Serebrowski
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to eserebrowski@gmail.com
+)

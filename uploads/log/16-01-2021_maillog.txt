@@ -1,0 +1,12 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-16 20:11:44
+    [mail Send] => Leave Request
+    [Employee Name] => Sheryl Albano
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to shanevanz@yahoo.com
+)

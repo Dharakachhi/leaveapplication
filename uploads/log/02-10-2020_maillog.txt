@@ -1,0 +1,30 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-02 10:05:13
+    [Employee Name] => Leah  Pellicone
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Leahmasna@icloud.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-02 10:14:41
+    [Employee Name] => Kathleen Murray
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Kathymcd14@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-02 10:18:41
+    [Employee Name] => Janna Poquiz
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jannapoquiz@yahoo.com
+)

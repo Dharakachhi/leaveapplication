@@ -1,0 +1,177 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-14 10:40:09
+    [Employee Name] => Hadassah Serebrowski
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to eserebrowski@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-14 10:40:46
+    [Employee Name] => Chaim w
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@tendertouch.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-14 10:41:04
+    [Employee Name] => Chaim w
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-14 10:41:15
+    [Employee Name] => Chaim Pollak
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to requestal@tendertouch.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-14 10:42:55
+    [Employee Name] => Test Destiny
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to testoffice9@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-14 11:19:28
+    [mail Send] => Leave Request
+    [Employee Name] => Cory Mozee
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Coryabdul816@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-14 13:12:39
+    [mail Send] => Leave Request
+    [Employee Name] => Arkady Levin
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Red2574@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-14 14:24:11
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim W
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-14 14:40:54
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim W
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-14 14:56:11
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim Pollak
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to requestal@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-14 15:13:48
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim W
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@tendertouch.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-14 15:23:52
+    [Employee Name] => Chaim Pollak
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to requestal@tendertouch.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-14 15:55:00
+    [Employee Name] => Chaim W
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@tendertouch.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-14 16:07:45
+    [Employee Name] => Daniel Jamokha
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to danieljamokha@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-14 16:11:17
+    [Employee Name] => Arkady Levin
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Red2574@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-14 16:13:34
+    [Employee Name] => Aielene Castro
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to aieh0207@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-14 17:57:05
+    [mail Send] => Leave Request
+    [Employee Name] => Sasha Kalra
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Sashak94@gmail.com
+)

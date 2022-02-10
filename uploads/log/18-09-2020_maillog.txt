@@ -1,0 +1,93 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-18 09:51:22
+    [mail Send] => Leave Request
+    [Employee Name] => Hazel  Ayirebi
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to hayirebi@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-18 10:45:14
+    [Employee Name] => Melissa Frederick
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to melissa81_22@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-18 11:19:14
+    [mail Send] => Leave Request
+    [Employee Name] => Erica Cunningham
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to eleasock14@su.edu
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-18 12:15:05
+    [Employee Name] => Erica Cunningham
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to eleasock14@su.edu
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-18 13:03:29
+    [Employee Name] => Erica Janda
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to ericalynne815@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-18 14:00:48
+    [Employee Name] => Hazel  Ayirebi
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to hayirebi@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-18 14:01:23
+    [Employee Name] => joyce ginsberg
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to joyceg@tendertouch.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-18 14:01:37
+    [Employee Name] => joyce ginsberg
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to joyceg@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-18 14:32:01
+    [mail Send] => Leave Request
+    [Employee Name] => Frederic Lim
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to iko_lim@yahoo.com
+)

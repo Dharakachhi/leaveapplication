@@ -1,0 +1,33 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-25 09:33:34
+    [mail Send] => Leave Request
+    [Employee Name] => Riya Lodha
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to riya.lodha@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-25 14:35:54
+    [mail Send] => Leave Request
+    [Employee Name] => Rodriguez Yamilex
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to yamirodz05@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-25 16:48:25
+    [mail Send] => Leave Request
+    [Employee Name] => Ric Dizon
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sgt_pepper1476@yahoo.com
+)

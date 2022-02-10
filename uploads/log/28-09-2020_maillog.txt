@@ -1,0 +1,85 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-28 08:17:53
+    [mail Send] => Leave Request
+    [Employee Name] => Samantha Kerstetter
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kersam02@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-28 10:33:09
+    [mail Send] => Leave Request
+    [Employee Name] => Ezinne  Mbata 
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to zeekeli013@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-28 11:53:47
+    [mail Send] => Leave Request
+    [Employee Name] => Peggy Tyson
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to 710GreenValley@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-28 12:10:30
+    [Employee Name] => Tracy Hojnowski
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to tracyhojo@frontier.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-28 13:35:54
+    [Employee Name] => Samantha Kerstetter
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kersam02@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-28 13:52:26
+    [mail Send] => Leave Request
+    [Employee Name] => Sylvia  Slodziak 
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sylviaregina212@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-28 14:56:08
+    [mail Send] => Leave Request
+    [Employee Name] => Christine  Deviney
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cdeviney6580@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-28 15:06:09
+    [Employee Name] => Ezinne  Mbata 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to zeekeli013@gmail.com
+)

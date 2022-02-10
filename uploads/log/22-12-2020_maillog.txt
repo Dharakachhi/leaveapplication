@@ -1,0 +1,135 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-22 09:54:32
+    [Employee Name] => Welson Tagsip
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to wct2016@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-22 14:17:21
+    [mail Send] => Leave Request
+    [Employee Name] => Valerie Cafasso
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Cafassovalerie@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-22 14:25:35
+    [mail Send] => Leave Request
+    [Employee Name] => Phillis  Wamai
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to pwamai75@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-22 14:30:08
+    [Employee Name] => Cheryl Dunahay
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Journey522@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-22 14:39:06
+    [mail Send] => Leave Request
+    [Employee Name] => Samuel Lu
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sam2gud4ever@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-22 15:23:54
+    [mail Send] => Leave Request
+    [Employee Name] => Jennifer Goldman
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Jlg5468@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-22 15:26:58
+    [mail Send] => Leave Request
+    [Employee Name] => Chad Dubosky
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chad.dubosky22@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-22 16:21:50
+    [Employee Name] => Aielene Castro
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to aieh0207@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-22 16:28:35
+    [Employee Name] => Phillis  Wamai
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to pwamai75@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-22 16:35:07
+    [Employee Name] => Annrey Ellazar
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Annrey_jsd@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-22 16:40:18
+    [Employee Name] => Chad Dubosky
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to chad.dubosky22@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-22 16:52:51
+    [Employee Name] => Jennifer Goldman
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Jlg5468@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-22 17:03:13
+    [Employee Name] => Emily Dagradi
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Emilydagradi@gmail.com
+)

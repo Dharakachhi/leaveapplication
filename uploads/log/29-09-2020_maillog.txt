@@ -1,0 +1,95 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-29 10:38:51
+    [Employee Name] => Sylvia  Slodziak 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sylviaregina212@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-29 10:43:21
+    [Employee Name] => Peggy Tyson
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to 710GreenValley@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-29 11:53:15
+    [mail Send] => Leave Request
+    [Employee Name] => Nyemade Kaizer
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Nyemade_Williams@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-29 12:26:10
+    [mail Send] => Leave Request
+    [Employee Name] => Naomi  Morris
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to nangel21@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-29 12:37:20
+    [Employee Name] => Naomi  Morris
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to nangel21@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-29 14:32:21
+    [Employee Name] => Kelly Jones
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to oconnellk514@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-29 17:27:40
+    [mail Send] => Leave Request
+    [Employee Name] => Brandon  Litzenberger 
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Blitzenberger189@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-29 17:39:28
+    [mail Send] => Leave Request
+    [Employee Name] => Naomi Morris
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Nangel21@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-29 20:51:27
+    [mail Send] => Leave Request
+    [Employee Name] => Ryan Hurst
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to rch5111@gmail.com
+)

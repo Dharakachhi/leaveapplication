@@ -1,0 +1,80 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-25 08:35:54
+    [mail Send] => Leave Request
+    [Employee Name] => Debra Gittens
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to d.gittens@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-25 10:54:02
+    [mail Send] => Leave Request
+    [Employee Name] => Victoria Gonzalez
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Vmrodriguez.89@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-25 11:26:15
+    [mail Send] => Leave Request
+    [Employee Name] => Tina Hunt
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to hunting4homes@gmail.com
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-25 12:37:03
+    [Employee Name] => Uri Plonka
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to uriplonka@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to urip@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-25 14:10:15
+    [mail Send] => Leave Request
+    [Employee Name] => Josef Anthony Tenorio
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to josefanthonyt@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-25 15:02:06
+    [mail Send] => Leave Request
+    [Employee Name] => Tina Hunt
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to hunting4homes@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-25 17:08:49
+    [mail Send] => Leave Request
+    [Employee Name] => Supraja  Angaru
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Supraja.mpt@gmail.com
+)

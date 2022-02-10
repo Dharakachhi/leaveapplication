@@ -1,0 +1,116 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-16 07:59:12
+    [mail Send] => Leave Request
+    [Employee Name] => shoma agni
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to mikem@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-16 08:11:44
+    [mail Send] => Leave Request
+    [Employee Name] => Ferdinand Rogelio
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to beboigrogelio@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-16 09:27:13
+    [Employee Name] => Joanna Tan
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sup.absecon@tendertouch.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-16 09:28:05
+    [Employee Name] => Ferdinand Rogelio
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to beboigrogelio@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-16 12:09:03
+    [mail Send] => Leave Request
+    [Employee Name] => Pamela Gomez
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Pamkaeli9@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-16 12:18:27
+    [Employee Name] => Courtney Knutsen
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Courtneyknutsen@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-16 12:38:15
+    [Employee Name] => shoma agni
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to mikem@tendertouch.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-16 12:45:06
+    [Employee Name] => Pamela Gomez
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Pamkaeli9@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-16 13:53:36
+    [mail Send] => Leave Request
+    [Employee Name] => Melissa Frederick
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to melissa81_22@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-16 14:29:03
+    [mail Send] => Leave Request
+    [Employee Name] => Megan Williams
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Meganhoover88@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-16 21:32:43
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim Pollak
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+)

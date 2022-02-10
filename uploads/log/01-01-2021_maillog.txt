@@ -1,0 +1,22 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-01 11:19:13
+    [mail Send] => Leave Request
+    [Employee Name] => Anna  Rossman
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chanarossman@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-01 15:31:01
+    [mail Send] => Leave Request
+    [Employee Name] => Ramil Yabut
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to ramil.yabut@gmail.com
+)

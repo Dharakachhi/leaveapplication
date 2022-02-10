@@ -1,0 +1,127 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-08 09:35:54
+    [mail Send] => Leave Request
+    [Employee Name] => Patricia  Scarpelli 
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to trishscarp12@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-08 11:27:17
+    [Employee Name] => Patricia  Scarpelli 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to trishscarp12@gmail.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2020-12-08 11:28:10
+    [Employee Name] => Irene Munoz-Gudiel
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to Irenegudiel@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-08 11:39:23
+    [Employee Name] => Steven Manis
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to smanis26@live.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-08 12:18:11
+    [mail Send] => Leave Request
+    [Employee Name] => gladys laroche
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to gladddy@aol.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-08 13:09:12
+    [mail Send] => Leave Request
+    [Employee Name] => Cheeyl Dunahay
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Journey522@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-08 13:46:49
+    [mail Send] => Leave Request
+    [Employee Name] => Katelyn Sharpe
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.mystic@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-08 15:32:45
+    [mail Send] => Leave Request
+    [Employee Name] => Joanne Ames
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Joanne.AmesOT@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-08 15:49:11
+    [Employee Name] => Joanne Ames
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Joanne.AmesOT@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-08 15:51:50
+    [Employee Name] => Joanne Ames
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Joanne.AmesOT@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-08 16:32:54
+    [mail Send] => Leave Request
+    [Employee Name] => Deanna Solomon
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Deannasolomon196@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-08 17:29:53
+    [mail Send] => Leave Request
+    [Employee Name] => Jacy Silva
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jacysilva2000@gmail.com
+)

@@ -1,0 +1,148 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-14 10:11:30
+    [mail Send] => Leave Request
+    [Employee Name] => Brandi Heasty
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to brandiheasty@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-14 11:44:15
+    [mail Send] => Leave Request
+    [Employee Name] => Doris Dougherty
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to dorisdougherty8@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-14 12:01:44
+    [mail Send] => Leave Request
+    [Employee Name] => Justin Galdo
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to xxgaldoxx@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-14 12:04:20
+    [Employee Name] => Doris Dougherty
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to dorisdougherty8@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-14 12:11:22
+    [Employee Name] => Justin Galdo
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to xxgaldoxx@aol.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-14 12:12:55
+    [mail Send] => Leave Request
+    [Employee Name] => Usama Abdelghany
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to usamaa1@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-14 13:20:45
+    [mail Send] => Leave Request
+    [Employee Name] => Ashley Cabalo
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to ashleyjns414@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-14 13:43:49
+    [mail Send] => Leave Request
+    [Employee Name] => Amira Barbour
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to amiramarieb@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-14 13:47:13
+    [Employee Name] => Patricia Bernardino
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Dawnptrp@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-14 13:48:41
+    [Employee Name] => Patricia Bernardino
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Dawnptrp@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-14 15:10:03
+    [Employee Name] => Regina  Rub
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Grubbish18@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-14 15:11:37
+    [Employee Name] => Patricia Bernardino
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Dawnptrp@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-14 15:25:21
+    [mail Send] => Leave Request
+    [Employee Name] => Erin  GONZALEZ 
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to erin.gonzalez123@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-14 15:31:46
+    [mail Send] => Leave Request
+    [Employee Name] => Rachel DiGioia
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Harrisr0725@yahoo.com
+)

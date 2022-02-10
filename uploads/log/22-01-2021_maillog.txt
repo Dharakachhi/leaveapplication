@@ -1,0 +1,516 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 02:01:54
+    [mail Send] => Leave Request
+    [Employee Name] =>   m e gha test 3s ut ar iy a 
+    [Email Send to HR] => Mail Send Error to  Mail Error: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.<br /><pre>Date: Fri, 22 Jan 2021 02:01:54 -0500
+From: &quot;Leave Application&quot; &lt;ttlr@tendertouch.com&gt;
+Return-Path: &lt;ttlr@tendertouch.com&gt;
+Reply-To: &lt;ttlr@tendertouch.com&gt;
+User-Agent: CodeIgniter
+X-Sender: ttlr@tendertouch.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;600a78626db09@tendertouch.com&gt;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_600a78626db1b&quot;
+=?UTF-8?Q?Leave=20Request?=
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_600a78626db1b
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new leave request from m e gha test 3s ut ar iy a for the dates 01/23/2021
+to 01/27/2021 has been made. Please log on to the portal to Approve or deny.
+
+
+--B_ALT_600a78626db1b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=3C=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1.0 Transitional//EN=22 =22h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd=22=3E
+ =3Chtml xmlns=3D=22http://www.w3.org/1999/xhtml=22=3E
+ =3Chead=3E
+ =3Cmeta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22 /=3E
+=20
+ =3Ctitle=3EActionable emails e.g. reset password=3C/title=3E
+ =3Cstyle=3E
+ =2A =7B
+ margin: 0=3B
+ font-family: =22Helvetica Neue=22, Helvetica, Arial, sans-serif=3B
+ box-sizing: border-box=3B
+ font-size: 14px=3B
+ =7D
+ body =7B
+ -webkit-font-smoothing: antialiased=3B
+ -webkit-text-size-adjust: none=3B
+ width: 100=25 =21important=3B
+ height: 100=25=3B
+ line-height: 1.6em=3B
+ =7D
+ body =7B background-color: =23f6f6f6=3B =7D
+ .body-wrap =7B background-color: =23f6f6f6=3B width: 100=25=3B =7D
+ .container =7B
+ display: block =21important=3B
+ max-width: 600px =21important=3B
+ margin: 0 auto =21important=3B
+ clear: both =21important=3B
+ =7D
+ a =7B color: =23348eda=3B text-decoration: underline=3B =7D
+ .btn-primary =7B
+ text-decoration: none=3B
+ color: =23FFF=3B
+ background-color: =23348eda=3B
+ border: solid =23348eda=3B
+ border-width: 10px 20px=3B
+ line-height: 2em=3B
+ font-weight: bold=3B
+ text-align: center=3B
+ cursor: pointer=3B
+ display: inline-block=3B
+ border-radius: 5px=3B
+ text-transform: capitalize=3B
+ =7D
+ =3C/style=3E
+ =3C/head=3E
+ =3Cbody itemscope itemtype=3D=22http://schema.org/EmailMessage=22=3E
+ A new leave request from m e gha test 3s ut ar iy a for the dates 01/23/20=
+21 to 01/27/2021 has been made. Please log on to the portal to Approve or d=
+eny.
+			=3C/body=3E
+			=3C/html=3E
+
+--B_ALT_600a78626db1b--</pre>
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 04:19:42
+    [mail Send] => Leave Request
+    [Employee Name] => megha test makwana
+    [Email Send to HR] => Mail Send Successfully to testoffice9@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 04:39:03
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest Makwana
+    [Email Send to HR] => Mail Send Successfully to testoffice9@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 04:53:33
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest makwana
+    [Email Send to HR] => Mail Send Successfully to testoffice9@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 05:03:14
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest makwana
+    [Email Send to HR] => Mail Send Successfully to testoffice9@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 05:05:11
+    [mail Send] => Leave Request
+    [Employee Name] => megha makwana
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 05:09:23
+    [mail Send] => Leave Request
+    [Employee Name] => megha makwana
+    [Email Send to HR] => Mail Send Successfully to testoffice9@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 06:01:42
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest makwana
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 06:05:21
+    [mail Send] => Leave Request
+    [Employee Name] => megha makwana
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 06:27:19
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest makwana
+    [Email Send to HR] => Mail Send Successfully to testoffice9@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 06:33:35
+    [mail Send] => Leave Request
+    [Employee Name] => MEGHATEST MAKWANA
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 06:35:03
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest makwana
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 06:37:28
+    [mail Send] => Leave Request
+    [Employee Name] => megha makwana
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 06:42:34
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest makwana
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 06:46:57
+    [mail Send] => Leave Request
+    [Employee Name] => megha test makwana
+    [Email Send to HR] => Mail Send Successfully to testoffice9@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 07:11:36
+    [mail Send] => Leave Request
+    [Employee Name] => megha 1739 test makwana
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 07:22:07
+    [Employee Name] => megha 1739 test makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 07:23:01
+    [Employee Name] => megha makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 07:23:23
+    [Employee Name] => megha makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 07:24:08
+    [Employee Name] => megha makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 07:25:03
+    [Employee Name] => meghatest makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 07:25:24
+    [Employee Name] => meghatest makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 07:26:04
+    [Employee Name] => MEGHATEST MAKWANA
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-22 07:26:23
+    [Employee Name] => meghatest makwana
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 07:26:39
+    [Employee Name] => meghatest makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 07:26:55
+    [Employee Name] => meghatest makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 08:15:23
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest makwana
+    [Email Send to HR] => Mail Send Successfully to testoffice9@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 08:16:38
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest12222 makwana
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 08:23:55
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest1853 makwana
+    [Email Send to HR] => Mail Send Successfully to testoffice9@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 08:25:59
+    [mail Send] => Leave Request
+    [Employee Name] => megha1854 makwana
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 08:28:14
+    [mail Send] => Leave Request
+    [Employee Name] => megha1857 makwana
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 08:42:47
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest1912 MAKWANA
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 08:45:37
+    [Employee Name] => megha test makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 08:45:57
+    [Employee Name] => megha1854 makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 08:46:14
+    [Employee Name] => megha1857 makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 08:46:43
+    [Employee Name] => meghatest makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 08:47:22
+    [Employee Name] => meghatest12222 makwana
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2021-01-22 08:47:39
+    [Employee Name] => meghatest1912 MAKWANA
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 09:22:32
+    [mail Send] => Leave Request
+    [Employee Name] => Marites McNally
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Thess_al40@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-22 13:48:42
+    [mail Send] => Leave Request
+    [Employee Name] => Supraja Angaru 
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Supraja.mpt@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-22 15:30:05
+    [Employee Name] => Debbie Knowles
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Jeffdeb629@yahoo.com
+)

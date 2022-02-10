@@ -1,0 +1,43 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-10 00:18:25
+    [mail Send] => Leave Request
+    [Employee Name] => test test
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to test84587@gmail.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2020-11-10 00:19:42
+    [Employee Name] => test test
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to test84587@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-10 15:41:15
+    [mail Send] => Leave Request
+    [Employee Name] => Mary Kathleen Cana
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to marykathleen34@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-10 19:15:47
+    [mail Send] => Leave Request
+    [Employee Name] => Sarah Martel
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to SarahKlic4@yahoo.com
+)

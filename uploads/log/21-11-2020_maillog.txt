@@ -1,0 +1,11 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-21 19:04:20
+    [mail Send] => Leave Request
+    [Employee Name] => James Taylor
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jimmyt1985@gmail.com
+)

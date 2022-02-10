@@ -1,0 +1,26 @@
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-03-14 22:15:48
+    [Employee Name] => Harvey Palapar
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to harveyjunnpalapar@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.cedarmanor@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-03-14 22:59:36
+    [Employee Name] => Harvey Palapar
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to harveyjunnpalapar@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.cedarmanor@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)

@@ -1,0 +1,766 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-12 06:26:31
+    [mail Send] => Leave Request
+    [Employee Name] => Christina Mckinney
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kcmckinney598@gmail.com
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-12 08:53:26
+    [Employee Name] => megha makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-12 08:59:59
+    [Employee Name] => megha makwana
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-12 09:02:55
+    [Employee Name] => megha makwana
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Error to Denied Request Mail Error: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 12 Jan 2021 09:02:55 -0500
+From: &quot;Punch Request&quot; &lt;mehultest5699@gmail.com&gt;
+Return-Path: &lt;mehultest5699@gmail.com&gt;
+Reply-To: &lt;mehultest5699@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: mehultest5699@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5ffdac0f4cfbe@gmail.com&gt;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5ffdac0f4cfd1&quot;
+=?UTF-8?Q?&lt;p&gt;Dear=20{&lt;span=20style=3D&quot;color:=20rgb(51,=2051,=2051);=20fo?= =?UTF-8?Q?nt-size:=2014px;&quot;&gt;Employee=20Name&lt;/span&gt;}&lt;/p&gt;&lt;p&gt;Denied&lt;/p&gt;&lt;p&gt;cl?= =?UTF-8?Q?ick=20Here=20:=20&lt;a=20href=3D&quot;https://lr.tendertouch.com/edit-p?= =?UTF-8?Q?unch/1&quot;=20target=3D&quot;=5Fblank&quot;=20itemprop=3D&quot;url&quot;&gt;View=20Punch?= =?UTF-8?Q?=20Request&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Thank=20You&lt;/p&gt;?=
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5ffdac0f4cfd1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+
+
+--B_ALT_5ffdac0f4cfd1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=3C=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1.0 Transitional//EN=22 =22h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd=22=3E
+ =3Chtml xmlns=3D=22http://www.w3.org/1999/xhtml=22=3E
+ =3Chead=3E
+ =3Cmeta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22 /=3E
+=20
+ =3Ctitle=3EActionable emails e.g. reset password=3C/title=3E
+ =3Cstyle=3E
+ =2A =7B
+ margin: 0=3B
+ font-family: =22Helvetica Neue=22, Helvetica, Arial, sans-serif=3B
+ box-sizing: border-box=3B
+ font-size: 14px=3B
+ =7D
+ body =7B
+ -webkit-font-smoothing: antialiased=3B
+ -webkit-text-size-adjust: none=3B
+ width: 100=25 =21important=3B
+ height: 100=25=3B
+ line-height: 1.6em=3B
+ =7D
+ body =7B background-color: =23f6f6f6=3B =7D
+ .body-wrap =7B background-color: =23f6f6f6=3B width: 100=25=3B =7D
+ .container =7B
+ display: block =21important=3B
+ max-width: 600px =21important=3B
+ margin: 0 auto =21important=3B
+ clear: both =21important=3B
+ =7D
+ a =7B color: =23348eda=3B text-decoration: underline=3B =7D
+ .btn-primary =7B
+ text-decoration: none=3B
+ color: =23FFF=3B
+ background-color: =23348eda=3B
+ border: solid =23348eda=3B
+ border-width: 10px 20px=3B
+ line-height: 2em=3B
+ font-weight: bold=3B
+ text-align: center=3B
+ cursor: pointer=3B
+ display: inline-block=3B
+ border-radius: 5px=3B
+ text-transform: capitalize=3B
+ =7D
+ =3C/style=3E
+ =3C/head=3E
+ =3Cbody itemscope itemtype=3D=22http://schema.org/EmailMessage=22=3E
+=20
+ =3C/body=3E
+ =3C/html=3E
+
+--B_ALT_5ffdac0f4cfd1--</pre>
+    [mail subject] => Denied Request
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-12 09:15:52
+    [Employee Name] => megha makwana
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-12 09:18:02
+    [Employee Name] => meghatest1947 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to mehultest5699@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [employee mail subject] => New Request Employee
+    [supervisor mail subject] => New Request Supervisor
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-12 09:23:25
+    [Employee Name] => Dhara K
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to benefits@tendertouch.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to test84587@gmail.com
+    [mail subject] => Approved Request
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-12 09:23:54
+    [Employee Name] => Dhara K
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Error to Denied Request Mail Error: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 12 Jan 2021 09:23:54 -0500
+From: &quot;Punch Request&quot; &lt;test84587@gmail.com&gt;
+Return-Path: &lt;test84587@gmail.com&gt;
+Reply-To: &lt;test84587@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: test84587@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5ffdb0fa16200@gmail.com&gt;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5ffdb0fa1621e&quot;
+=?UTF-8?Q?&lt;p&gt;Dear=20{&lt;span=20style=3D&quot;color:=20rgb(51,=2051,=2051);=20fo?= =?UTF-8?Q?nt-size:=2014px;&quot;&gt;Employee=20Name&lt;/span&gt;}&lt;/p&gt;&lt;p&gt;Denied&lt;/p&gt;&lt;p&gt;cl?= =?UTF-8?Q?ick=20Here=20:=20&lt;a=20href=3D&quot;https://lr.tendertouch.com/edit-p?= =?UTF-8?Q?unch/1&quot;=20target=3D&quot;=5Fblank&quot;=20itemprop=3D&quot;url&quot;&gt;View=20Punch?= =?UTF-8?Q?=20Request&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Thank=20You&lt;/p&gt;?=
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5ffdb0fa1621e
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+
+
+--B_ALT_5ffdb0fa1621e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=3C=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1.0 Transitional//EN=22 =22h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd=22=3E
+ =3Chtml xmlns=3D=22http://www.w3.org/1999/xhtml=22=3E
+ =3Chead=3E
+ =3Cmeta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22 /=3E
+=20
+ =3Ctitle=3EActionable emails e.g. reset password=3C/title=3E
+ =3Cstyle=3E
+ =2A =7B
+ margin: 0=3B
+ font-family: =22Helvetica Neue=22, Helvetica, Arial, sans-serif=3B
+ box-sizing: border-box=3B
+ font-size: 14px=3B
+ =7D
+ body =7B
+ -webkit-font-smoothing: antialiased=3B
+ -webkit-text-size-adjust: none=3B
+ width: 100=25 =21important=3B
+ height: 100=25=3B
+ line-height: 1.6em=3B
+ =7D
+ body =7B background-color: =23f6f6f6=3B =7D
+ .body-wrap =7B background-color: =23f6f6f6=3B width: 100=25=3B =7D
+ .container =7B
+ display: block =21important=3B
+ max-width: 600px =21important=3B
+ margin: 0 auto =21important=3B
+ clear: both =21important=3B
+ =7D
+ a =7B color: =23348eda=3B text-decoration: underline=3B =7D
+ .btn-primary =7B
+ text-decoration: none=3B
+ color: =23FFF=3B
+ background-color: =23348eda=3B
+ border: solid =23348eda=3B
+ border-width: 10px 20px=3B
+ line-height: 2em=3B
+ font-weight: bold=3B
+ text-align: center=3B
+ cursor: pointer=3B
+ display: inline-block=3B
+ border-radius: 5px=3B
+ text-transform: capitalize=3B
+ =7D
+ =3C/style=3E
+ =3C/head=3E
+ =3Cbody itemscope itemtype=3D=22http://schema.org/EmailMessage=22=3E
+=20
+ =3C/body=3E
+ =3C/html=3E
+
+--B_ALT_5ffdb0fa1621e--</pre>
+    [mail subject] => Denied Request
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-12 09:34:01
+    [mail Send] => Leave Request
+    [Employee Name] => Rebecca Johnson
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to becky220@comcast.com
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-12 09:37:03
+    [Employee Name] => Dhara K
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Error to Denied Request Mail Error: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 12 Jan 2021 09:37:03 -0500
+From: &quot;Punch Request&quot; &lt;test84587@gmail.com&gt;
+Return-Path: &lt;test84587@gmail.com&gt;
+Reply-To: &lt;test84587@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: test84587@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5ffdb40f23b0e@gmail.com&gt;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5ffdb40f23b23&quot;
+=?UTF-8?Q?&lt;p&gt;Dear=20{&lt;span=20style=3D&quot;color:=20rgb(51,=2051,=2051);=20fo?= =?UTF-8?Q?nt-size:=2014px;&quot;&gt;Employee=20Name&lt;/span&gt;}&lt;/p&gt;&lt;p&gt;Denied&lt;/p&gt;&lt;p&gt;cl?= =?UTF-8?Q?ick=20Here=20:=20&lt;a=20href=3D&quot;https://lr.tendertouch.com/edit-p?= =?UTF-8?Q?unch/1&quot;=20target=3D&quot;=5Fblank&quot;=20itemprop=3D&quot;url&quot;&gt;View=20Punch?= =?UTF-8?Q?=20Request&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Thank=20You&lt;/p&gt;?=
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5ffdb40f23b23
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+
+
+--B_ALT_5ffdb40f23b23
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=3C=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1.0 Transitional//EN=22 =22h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd=22=3E
+ =3Chtml xmlns=3D=22http://www.w3.org/1999/xhtml=22=3E
+ =3Chead=3E
+ =3Cmeta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22 /=3E
+=20
+ =3Ctitle=3EActionable emails e.g. reset password=3C/title=3E
+ =3Cstyle=3E
+ =2A =7B
+ margin: 0=3B
+ font-family: =22Helvetica Neue=22, Helvetica, Arial, sans-serif=3B
+ box-sizing: border-box=3B
+ font-size: 14px=3B
+ =7D
+ body =7B
+ -webkit-font-smoothing: antialiased=3B
+ -webkit-text-size-adjust: none=3B
+ width: 100=25 =21important=3B
+ height: 100=25=3B
+ line-height: 1.6em=3B
+ =7D
+ body =7B background-color: =23f6f6f6=3B =7D
+ .body-wrap =7B background-color: =23f6f6f6=3B width: 100=25=3B =7D
+ .container =7B
+ display: block =21important=3B
+ max-width: 600px =21important=3B
+ margin: 0 auto =21important=3B
+ clear: both =21important=3B
+ =7D
+ a =7B color: =23348eda=3B text-decoration: underline=3B =7D
+ .btn-primary =7B
+ text-decoration: none=3B
+ color: =23FFF=3B
+ background-color: =23348eda=3B
+ border: solid =23348eda=3B
+ border-width: 10px 20px=3B
+ line-height: 2em=3B
+ font-weight: bold=3B
+ text-align: center=3B
+ cursor: pointer=3B
+ display: inline-block=3B
+ border-radius: 5px=3B
+ text-transform: capitalize=3B
+ =7D
+ =3C/style=3E
+ =3C/head=3E
+ =3Cbody itemscope itemtype=3D=22http://schema.org/EmailMessage=22=3E
+=20
+ =3C/body=3E
+ =3C/html=3E
+
+--B_ALT_5ffdb40f23b23--</pre>
+    [mail subject] => Denied Request
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-12 09:37:19
+    [Employee Name] => Dhara K
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Error to Completed Request Mail Error: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 12 Jan 2021 09:37:19 -0500
+From: &quot;Punch Request&quot; &lt;test84587@gmail.com&gt;
+Return-Path: &lt;test84587@gmail.com&gt;
+Reply-To: &lt;test84587@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: test84587@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5ffdb41f5343d@gmail.com&gt;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5ffdb41f53457&quot;
+=?UTF-8?Q?&lt;p=20class=3D&quot;leave=5Flable&quot;=20style=3D&quot;color:=20rgb(51,=2051,?= =?UTF-8?Q?=2051);=20font-size:=2014px;&quot;&gt;Dear=20Dhara=20K,&lt;/p&gt;&lt;p=20class?= =?UTF-8?Q?=3D&quot;leave=5Flable&quot;=20style=3D&quot;color:=20rgb(51,=2051,=2051);=20f?= =?UTF-8?Q?ont-size:=2014px;&quot;&gt;Completed&lt;br&gt;&lt;/p&gt;&lt;p=20class=3D&quot;leave=5Flable?= =?UTF-8?Q?&quot;=20style=3D&quot;color:=20rgb(51,=2051,=2051);=20font-size:=2014px;?= =?UTF-8?Q?&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p=20class=3D&quot;leave=5Flable&quot;=20style=3D&quot;color:=20rgb(?= =?UTF-8?Q?51,=2051,=2051);=20font-size:=2014px;&quot;&gt;Thank=20you&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/?= =?UTF-8?Q?p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;?=
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5ffdb41f53457
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+
+
+--B_ALT_5ffdb41f53457
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=3C=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1.0 Transitional//EN=22 =22h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd=22=3E
+ =3Chtml xmlns=3D=22http://www.w3.org/1999/xhtml=22=3E
+ =3Chead=3E
+ =3Cmeta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22 /=3E
+=20
+ =3Ctitle=3EActionable emails e.g. reset password=3C/title=3E
+ =3Cstyle=3E
+ =2A =7B
+ margin: 0=3B
+ font-family: =22Helvetica Neue=22, Helvetica, Arial, sans-serif=3B
+ box-sizing: border-box=3B
+ font-size: 14px=3B
+ =7D
+ body =7B
+ -webkit-font-smoothing: antialiased=3B
+ -webkit-text-size-adjust: none=3B
+ width: 100=25 =21important=3B
+ height: 100=25=3B
+ line-height: 1.6em=3B
+ =7D
+ body =7B background-color: =23f6f6f6=3B =7D
+ .body-wrap =7B background-color: =23f6f6f6=3B width: 100=25=3B =7D
+ .container =7B
+ display: block =21important=3B
+ max-width: 600px =21important=3B
+ margin: 0 auto =21important=3B
+ clear: both =21important=3B
+ =7D
+ a =7B color: =23348eda=3B text-decoration: underline=3B =7D
+ .btn-primary =7B
+ text-decoration: none=3B
+ color: =23FFF=3B
+ background-color: =23348eda=3B
+ border: solid =23348eda=3B
+ border-width: 10px 20px=3B
+ line-height: 2em=3B
+ font-weight: bold=3B
+ text-align: center=3B
+ cursor: pointer=3B
+ display: inline-block=3B
+ border-radius: 5px=3B
+ text-transform: capitalize=3B
+ =7D
+ =3C/style=3E
+ =3C/head=3E
+ =3Cbody itemscope itemtype=3D=22http://schema.org/EmailMessage=22=3E
+=20
+ =3C/body=3E
+ =3C/html=3E
+
+--B_ALT_5ffdb41f53457--</pre>
+    [Email Send to Supervisor] => Mail Send Error to Completed Request Mail Error: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 12 Jan 2021 09:37:19 -0500
+From: &quot;Punch Request&quot; &lt;sup.abigail@tendertouch.com&gt;
+Return-Path: &lt;sup.abigail@tendertouch.com&gt;
+Reply-To: &lt;sup.abigail@tendertouch.com&gt;
+User-Agent: CodeIgniter
+X-Sender: sup.abigail@tendertouch.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5ffdb41f77419@tendertouch.com&gt;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5ffdb41f77431&quot;
+=?UTF-8?Q?&lt;p=20class=3D&quot;leave=5Flable&quot;=20style=3D&quot;color:=20rgb(51,=2051,?= =?UTF-8?Q?=2051);=20font-size:=2014px;&quot;&gt;Dear=20Dhara=20K,&lt;/p&gt;&lt;p=20class?= =?UTF-8?Q?=3D&quot;leave=5Flable&quot;=20style=3D&quot;color:=20rgb(51,=2051,=2051);=20f?= =?UTF-8?Q?ont-size:=2014px;&quot;&gt;Completed&lt;br&gt;&lt;/p&gt;&lt;p=20class=3D&quot;leave=5Flable?= =?UTF-8?Q?&quot;=20style=3D&quot;color:=20rgb(51,=2051,=2051);=20font-size:=2014px;?= =?UTF-8?Q?&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p=20class=3D&quot;leave=5Flable&quot;=20style=3D&quot;color:=20rgb(?= =?UTF-8?Q?51,=2051,=2051);=20font-size:=2014px;&quot;&gt;Thank=20you&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/?= =?UTF-8?Q?p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;?=
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5ffdb41f77431
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+
+
+--B_ALT_5ffdb41f77431
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=3C=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1.0 Transitional//EN=22 =22h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd=22=3E
+ =3Chtml xmlns=3D=22http://www.w3.org/1999/xhtml=22=3E
+ =3Chead=3E
+ =3Cmeta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22 /=3E
+=20
+ =3Ctitle=3EActionable emails e.g. reset password=3C/title=3E
+ =3Cstyle=3E
+ =2A =7B
+ margin: 0=3B
+ font-family: =22Helvetica Neue=22, Helvetica, Arial, sans-serif=3B
+ box-sizing: border-box=3B
+ font-size: 14px=3B
+ =7D
+ body =7B
+ -webkit-font-smoothing: antialiased=3B
+ -webkit-text-size-adjust: none=3B
+ width: 100=25 =21important=3B
+ height: 100=25=3B
+ line-height: 1.6em=3B
+ =7D
+ body =7B background-color: =23f6f6f6=3B =7D
+ .body-wrap =7B background-color: =23f6f6f6=3B width: 100=25=3B =7D
+ .container =7B
+ display: block =21important=3B
+ max-width: 600px =21important=3B
+ margin: 0 auto =21important=3B
+ clear: both =21important=3B
+ =7D
+ a =7B color: =23348eda=3B text-decoration: underline=3B =7D
+ .btn-primary =7B
+ text-decoration: none=3B
+ color: =23FFF=3B
+ background-color: =23348eda=3B
+ border: solid =23348eda=3B
+ border-width: 10px 20px=3B
+ line-height: 2em=3B
+ font-weight: bold=3B
+ text-align: center=3B
+ cursor: pointer=3B
+ display: inline-block=3B
+ border-radius: 5px=3B
+ text-transform: capitalize=3B
+ =7D
+ =3C/style=3E
+ =3C/head=3E
+ =3Cbody itemscope itemtype=3D=22http://schema.org/EmailMessage=22=3E
+=20
+ =3C/body=3E
+ =3C/html=3E
+
+--B_ALT_5ffdb41f77431--</pre>
+    [mail subject] => Completed Request
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-12 09:47:02
+    [Employee Name] => Dhara K
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to test84587@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.abigail@tendertouch.com
+    [mail subject] => Completed Request
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-12 09:47:19
+    [Employee Name] => Dhara K
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Successfully to test84587@gmail.com
+    [mail subject] => Denied Request
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-12 09:47:33
+    [Employee Name] => Dhara K
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to test84587@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.abigail@tendertouch.com
+    [mail subject] => Cancel
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-12 09:47:47
+    [Employee Name] => Dhara K
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Successfully to test84587@gmail.com
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-12 09:50:14
+    [Employee Name] => Dhara K
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to test84587@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.abigail@tendertouch.com
+    [Email Subject] => Completed Request
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-12 10:04:49
+    [Employee Name] => Lauren Saal
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to laurensaal@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-12 10:27:32
+    [Employee Name] => Nicolette Scorsone
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Scorsone30n@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-12 11:05:19
+    [Employee Name] => Kristoffer Rivera
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kristofferrivera4@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-12 11:16:01
+    [mail Send] => Leave Request
+    [Employee Name] => Edward Ivanchenko
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to edwardivanchenko@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-12 11:27:11
+    [Employee Name] => Elisha Muntazer
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Elisha.Muntazar@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-12 11:37:44
+    [mail Send] => Leave Request
+    [Employee Name] => Bienna Freeman-McElwee
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to biennaf@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-12 11:44:49
+    [mail Send] => Leave Request
+    [Employee Name] => Astha Wadhwa
+    [Email Send to HR] => Mail Send Successfully to testoffice9@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to asthawadhwa27@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-12 12:46:40
+    [Employee Name] => Keren Kagan
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kfishbain22@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-12 13:17:11
+    [mail Send] => Leave Request
+    [Employee Name] => Patrick Huerta
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cloverscut@msn.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-12 13:46:48
+    [mail Send] => Leave Request
+    [Employee Name] => Patrick Huerta
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cloverscut@msn.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-12 14:07:24
+    [Employee Name] => Patrick Huerta
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to cloverscut@msn.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-12 14:19:13
+    [Employee Name] => Rebecca Johnson
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to becky220@comcast.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-12 14:33:00
+    [Employee Name] => Bianca Buonomo
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to bbuonomo.93@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-12 14:48:55
+    [Employee Name] => Bienna Freeman-McElwee
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to biennaf@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-12 15:18:43
+    [mail Send] => Leave Request
+    [Employee Name] => Rochelle Lominy
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to rachelemaurice@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-12 15:32:40
+    [Employee Name] => Edward Ivanchenko
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to edwardivanchenko@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-12 19:36:04
+    [mail Send] => Leave Request
+    [Employee Name] => Veronica Hollomon
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to holloqueen@aol.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-12 19:57:24
+    [mail Send] => Leave Request
+    [Employee Name] => Rachele Lominy
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to rachelemaurice@yahoo.com
+)

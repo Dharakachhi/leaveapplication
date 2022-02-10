@@ -1,0 +1,42 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-05 10:19:36
+    [mail Send] => Leave Request
+    [Employee Name] => Courtney  Knutsen
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Courtneyknutsen@gmail.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2020-11-05 14:51:28
+    [Employee Name] => Courtney Knutsen
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to courtneyknutsen@gmail.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2020-11-05 14:52:03
+    [Employee Name] => Courtney  Knutsen
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to Courtneyknutsen@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-05 15:49:51
+    [mail Send] => Leave Request
+    [Employee Name] => Asya  Baig 
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to asyabaig@yahoo.com
+)

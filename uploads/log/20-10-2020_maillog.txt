@@ -1,0 +1,21 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-20 14:42:05
+    [mail Send] => Leave Request
+    [Employee Name] => joshua medina
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to joshua.medina93@yahoo.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2020-10-20 15:45:31
+    [Employee Name] => joshua medina
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to joshua.medina93@yahoo.com
+)

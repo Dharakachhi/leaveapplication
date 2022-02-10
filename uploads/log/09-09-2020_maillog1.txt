@@ -1,0 +1,10 @@
+
+---------- Leave Request Email Send to HR -------------
+1
+---------- Leave Request Email Send to Employee -------------
+1
+---------- Leave Request Email Send to HR -------------
+Mail Send Successfully to requestal@tendertouch.com
+
+---------- Leave Request Email Send to Employee -------------
+Mail Send Successfully to testoffice9@gmail.com

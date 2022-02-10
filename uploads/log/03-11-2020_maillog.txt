@@ -1,0 +1,72 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-03 12:27:15
+    [mail Send] => Leave Request
+    [Employee Name] => Mary Neff
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jdneff34@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-03 13:05:51
+    [mail Send] => Leave Request
+    [Employee Name] => Rebecca  McCullough
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to bec2192@verizon.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-03 14:00:38
+    [Employee Name] => Kaitlyn  Taylor
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to ktaylor614@yahoo.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2020-11-03 14:05:53
+    [Employee Name] => Mary Neff
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to jdneff34@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-03 14:15:48
+    [Employee Name] => Rebecca  McCullough
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to bec2192@verizon.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-03 16:03:28
+    [Employee Name] => Mikayla Blank
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to mikayla.blank@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-03 16:16:59
+    [Employee Name] => LaTanya Lemon-Cumper
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to lblemoncumper@gmail.com
+)

@@ -1,0 +1,125 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-15 08:39:41
+    [mail Send] => Leave Request
+    [Employee Name] => MarKeith Patterson
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to mpatterson606@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-15 11:09:53
+    [Employee Name] => MarKeith Patterson
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to mpatterson606@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-15 11:16:15
+    [mail Send] => Leave Request
+    [Employee Name] => Valerie Cafasso
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Cafassovalerie@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-15 12:13:54
+    [mail Send] => Leave Request
+    [Employee Name] => Michyl Patigdas
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to michyl1982@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-15 12:59:37
+    [Employee Name] => Lisa DeCanzio
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to lisatool02@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-15 13:00:33
+    [Employee Name] => Magnolia  Cabrera
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Jcedith2@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-15 13:43:30
+    [Employee Name] => Lisa DeCanzio
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to lisatool02@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-15 14:47:30
+    [Employee Name] => Amira Barbour
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to amiramarieb@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-15 15:06:29
+    [Employee Name] => Erin  GONZALEZ 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to erin.gonzalez123@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-15 15:16:34
+    [mail Send] => Leave Request
+    [Employee Name] => Joshua Medina
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to joshua.medina93@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-15 15:34:09
+    [Employee Name] => Brandi Heasty
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to brandiheasty@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-15 16:13:46
+    [mail Send] => Leave Request
+    [Employee Name] => matthew poko
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to matthewrpoko@gmail.com
+)

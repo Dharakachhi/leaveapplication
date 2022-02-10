@@ -1,0 +1,228 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-09 09:05:45
+    [mail Send] => Leave Request
+    [Employee Name] => Test Destiny
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to testoffice9@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-09 09:15:53
+    [Employee Name] => Dharavi Patel
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to dhara.k288@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-09 09:16:33
+    [Employee Name] => Test Destiny
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to testoffice9@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-09 09:16:55
+    [Employee Name] => Test Destiny
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to testoffice9@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-09 09:32:34
+    [mail Send] => Leave Request
+    [Employee Name] => Viviana Vasquez
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to vivianavasquez1128@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-09 09:50:33
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim Pollak
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to requestmz@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-09 09:59:09
+    [mail Send] => Leave Request
+    [Employee Name] => Tender  Touch
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to requestal@tendertouch.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-09 11:49:07
+    [Employee Name] => Justin  McDowell
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Relaygraphics@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-09 12:21:27
+    [Employee Name] => Deborah Berger
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Debbedo@comcast.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-09 12:26:40
+    [Employee Name] => Tracy Hojnowski
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to tracyhojo@frontier.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-09 12:27:39
+    [Employee Name] => Kelly Hippert 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kelking55@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-09 12:29:13
+    [Employee Name] => Viviana Vasquez
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to vivianavasquez1128@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-09 12:29:39
+    [Employee Name] => Tender  Touch
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to requestal@tendertouch.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-09 12:29:51
+    [Employee Name] => Chaim Pollak
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to requestmz@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-09 12:35:27
+    [mail Send] => Leave Request
+    [Employee Name] => Dorothy Holz
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Holzdorothy421@bmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-09 12:54:18
+    [Employee Name] => Jacqueline  Kodish
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jsolfanelli@sunrisetherapytt.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-09 13:04:30
+    [Employee Name] => Dorothy Holz
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Holzdorothy421@bmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-09 13:52:23
+    [mail Send] => Leave Request
+    [Employee Name] => Karan Wadhwa
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to karan2688@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-09 14:05:17
+    [Employee Name] => Karan Wadhwa
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to karan2688@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-09 15:29:31
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim Pollak
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaim@cmpollak.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-09 15:34:17
+    [Employee Name] => Chaim Pollak
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaim@cmpollak.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-09 18:17:26
+    [mail Send] => Leave Request
+    [Employee Name] => Chaya Levine
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cblevine710@gmail.com
+)

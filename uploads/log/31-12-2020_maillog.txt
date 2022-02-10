@@ -1,0 +1,23 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-31 12:36:19
+    [mail Send] => Leave Request
+    [Employee Name] => Sherry Mock
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Gizmo0630@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-31 22:15:34
+    [mail Send] => Leave Request
+    [Employee Name] => Lori Fittante
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to lfittante01@comcast.net
+)

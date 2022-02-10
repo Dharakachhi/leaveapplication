@@ -1,0 +1,105 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-23 09:09:17
+    [mail Send] => Leave Request
+    [Employee Name] => Rosemary Crew-Cofield
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Randbcc1@live.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-23 12:48:34
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim w
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-23 12:57:02
+    [Employee Name] => Patricia  R. S. Pannett
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to ppannett@sunrisetherapytt.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-23 14:39:08
+    [Employee Name] => Rosemary Crew-Cofield
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Randbcc1@live.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-23 15:19:19
+    [Employee Name] => Chaim w
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-23 15:40:25
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim w
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-23 16:18:59
+    [Employee Name] => Chaim w
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-23 18:00:27
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim W
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-23 18:09:44
+    [Employee Name] => Chaim W
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-23 21:17:44
+    [mail Send] => Leave Request
+    [Employee Name] => Amber Gordon
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to amber.gordon93@gmail.com
+)

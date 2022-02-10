@@ -1,0 +1,178 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-14 09:25:51
+    [Employee Name] => Deborah Berger
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Debbedo@comcast.net.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-14 09:28:25
+    [Employee Name] => Veronica Hollomon
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to holloqueen@aol.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2021-01-14 09:33:43
+    [Employee Name] => Rochelle Lominy
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to rachelemaurice@yahoo.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2021-01-14 09:34:18
+    [Employee Name] => Rachele Lominy
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to rachelemaurice@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-14 09:36:18
+    [Employee Name] => Rochelle Lominy
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to rachelemaurice@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-14 09:55:08
+    [Employee Name] => Jerrika Lingle
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jerrikahaven@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-14 10:15:35
+    [mail Send] => Leave Request
+    [Employee Name] => Jelle Lasam
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jellemarielasam@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-14 10:25:41
+    [Employee Name] => Swapnil Malthane
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to swapnilm2903@gmail.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2021-01-14 10:27:03
+    [Employee Name] => Jelle Lasam
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to jellemarielasam@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-14 10:35:15
+    [Employee Name] => Jelle Lasam
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jellemarielasam@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-14 10:59:31
+    [Employee Name] => Bianca Buonomo
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to bianca.buonoma@outlook.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2021-01-14 11:10:27
+    [Employee Name] => Ashley Aiello
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to ashlley09@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-14 11:39:12
+    [mail Send] => Leave Request
+    [Employee Name] => Tiffany Mandeville
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to TiffLMan11@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-14 11:46:29
+    [Employee Name] => Tiffany Mandeville
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to TiffLMan11@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-14 13:09:08
+    [mail Send] => Leave Request
+    [Employee Name] => Lauren Flicker
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to flicker.lauren@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-14 13:51:23
+    [Employee Name] => Lauren Flicker
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to flicker.lauren@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-14 17:13:32
+    [mail Send] => Leave Request
+    [Employee Name] => Nicole Fredmonski
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to fredmonskina@gmail.com
+)

@@ -1,0 +1,51 @@
+label.error, span.red, span.required{ color: red; }
+.right{ float: right; }
+.left{ float: left; }
+.center{ text-align: center; }
+/* Notification */
+#notification_error, #notificationErr, #message_error { position: fixed; top: 51px; width: 23%; right: 0px; height: auto; z-index: 9999; text-align: center; font-weight: normal; padding: 20px; font-size: 14px; font-weight: bold; color: white; background-color: #d9534f; }
+#notification, #message{ position: fixed; top: 51px; width: 23%; right: 0px; height: auto; z-index: 9999; text-align: center; font-weight: normal; padding: 20px; font-size: 14px; font-weight: bold; color: white; background-color: #7fd07ff2; }
+/* Notification */
+/* loader */
+.se-pre-con { position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 9999; background: url(../img/BogusEmptyBrontosaurus-size_restricted.gif) center no-repeat #01010182;}
+/* loader end */
+/* user profile */
+.notice-info { color: #31708f; background-color: #d9edf7; border-color: #bce8f1; }
+.alert_inform { padding: 10px; border: 1px solid transparent; border-top-color: transparent; border-right-color: transparent; border-bottom-color: transparent; border-left-color: transparent; border-radius: 4px !important; }
+/* user profile end */
+/* Leave Question Page */
+#tbl_input_lable tr th, #tbl_input_lable tr td { padding: 10px; border: 1px solid #c2cad8; }
+#tbl_input_lable tr th { text-align: center; }
+#tbl_input_lable { width: 100%; }
+a .fa-plus { font-size: 25px;
+    padding-top: 10px; }
+/* Leave Question Page end */
+.page-footer { background: #383C4A; color: #fff; font-size: 15px; }
+.page-header .page-header-menu { background: #494E5E; }
+.page-header .page-header-top .page-logo .logo-default { margin: 7.5px 0 0; }
+.btngreen { background: #a5c539; border: solid 2px #a5c539; color: #fff; }
+/* Search Page end */
+.leave_lable { margin: 5px 0px; }
+.info_div { padding-bottom: 10px; }
+/*#filter_leave_list, #leave_detail { height: 600px; overflow-y: auto; }*/
+.leave_list_div { border-bottom: 2px solid #c2cad8; }
+.angle_icon { font-size: 70px; }
+.angle_icon a { color: #bfc2c6; }
+#leaveForm { font-size: 25px; color: #333; }
+/* Search Page end */
+/* Leave form */
+#tbl_file_lable tr th, #tbl_file_lable tr td { padding: 10px; border: 1px solid #c2cad8; }
+#tbl_file_lable tr th { text-align: center; }
+#tbl_file_lable { width: 100%; }
+#uploaded_image{ margin-bottom: 15px; }
+.request_lable { text-align: center; color: #A5C738; font-size: 22px; }
+.request_lable p { margin: 10px 0; }
+
+.portlet.light .dataTables_wrapper .dt-buttons{margin-top:-48px !important; margin-right: 45px !important;}
+.page-header .page-header-menu{height: auto !important;}
+
+@media (min-width: 1200px){
+	.container {
+	    width: 1400px;
+	}
+}

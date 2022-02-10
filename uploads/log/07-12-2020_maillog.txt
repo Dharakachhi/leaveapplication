@@ -1,0 +1,107 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-07 07:40:32
+    [mail Send] => Leave Request
+    [Employee Name] => John Keller
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Johnkeller43@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-07 07:48:55
+    [mail Send] => Leave Request
+    [Employee Name] => Katie Kehagias 
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Katienicolee528@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-07 08:16:39
+    [mail Send] => Leave Request
+    [Employee Name] => Tammy Sottung
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to tls1996@comcast.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-07 09:49:56
+    [Employee Name] => Tammy Sottung
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to tls1996@comcast.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-07 10:49:20
+    [Employee Name] => John Keller
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Johnkeller43@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-07 11:24:03
+    [mail Send] => Leave Request
+    [Employee Name] => Angelito Anonuevo
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to bong.anonuevo@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-07 11:51:04
+    [Employee Name] => Katie Kehagias 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Katienicolee528@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-07 12:20:55
+    [mail Send] => Leave Request
+    [Employee Name] => Alissa Burneyko
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to alleycatalto504@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-07 12:52:07
+    [mail Send] => Leave Request
+    [Employee Name] => Irene Munoz-Gudiel
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Irenegudiel@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-07 13:11:36
+    [mail Send] => Leave Request
+    [Employee Name] => Steven Manis
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to smanis26@live.com
+)

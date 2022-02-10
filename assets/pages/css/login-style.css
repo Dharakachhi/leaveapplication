@@ -1,0 +1,22 @@
+label.error{ color: #e73d4a !important; }
+.right{ float: right; }
+.left{ float: left; }
+.center{ text-align: center; }
+/* Notification */
+#notification_error, #notificationErr, #message_error { position: fixed; top: 51px; width: 23%; right: 0px; height: auto; z-index: 9999; text-align: center; font-weight: normal; padding-top: 20px; padding-bottom: 20px; font-size: 14px; font-weight: bold; color: white; background-color: #d9534f; }
+#notification, #message{ position: fixed; top: 51px; width: 23%; right: 0px; height: auto; z-index: 9999; text-align: center; font-weight: normal; padding-top: 20px; padding-bottom: 20px; font-size: 14px; font-weight: bold; color: white; background-color: #7fd07ff2; }
+/* Notification */
+/* loader */
+.se-pre-con { position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 9999; background: url(../img/BogusEmptyBrontosaurus-size_restricted.gif) center no-repeat #01010182;}
+/* loader end */
+/* Login page */
+.login_icon { font-size: 25px; margin-top: 9px; }
+#loginbtn { width: 100%; font-size: 17px; }
+/* Login page end */
+/* Front Login */
+.frontbtn { width: 100%; font-size: 18px; font-weight: 700; }
+.loginfont { color: #eee; font-size: 15px; }
+.header_login { padding: 6px 30px !important; font-size: 16px; }
+.page-header{ margin: 20px 0 0px; }
+/* Front Login end */
+.btngreen { background: #a5c539; border: solid 2px #a5c539; color: #fff; }

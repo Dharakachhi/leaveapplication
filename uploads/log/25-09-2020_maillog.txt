@@ -1,0 +1,22 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-25 13:14:08
+    [mail Send] => Leave Request
+    [Employee Name] => Tracy Hojnowski
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to tracyhojo@frontier.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-25 15:47:29
+    [mail Send] => Leave Request
+    [Employee Name] => Kelly Jones
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to oconnellk514@yahoo.com
+)

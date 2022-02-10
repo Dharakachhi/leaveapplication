@@ -1,0 +1,72 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-15 10:26:18
+    [Employee Name] => Sasha Kalra
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Sashak94@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-15 10:31:31
+    [Employee Name] => Sasha Kalra
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Sashak94@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-15 12:32:52
+    [Employee Name] => Cory Mozee
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Coryabdul816@yahoo.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-15 12:33:00
+    [Employee Name] => Chaim W
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@tendertouch.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-15 12:33:13
+    [Employee Name] => Chaim W
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-15 22:07:29
+    [mail Send] => Leave Request
+    [Employee Name] => Joanna Tan
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.absecon@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-15 22:12:39
+    [mail Send] => Leave Request
+    [Employee Name] => Courtney Knutsen
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Courtneyknutsen@gmail.com
+)

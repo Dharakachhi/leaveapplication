@@ -1,0 +1,125 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-11 09:46:21
+    [Employee Name] => Karolina Podkalicki
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to karolcia_09@wp.pl
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-11 10:10:26
+    [Employee Name] => Venezia Vega
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Veneziavega11@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-11 10:33:50
+    [Employee Name] => Suruch Patel
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to suruch.patel@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-11 10:48:39
+    [Employee Name] => Steven Manis
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to smanis26@live.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-11 11:32:28
+    [mail Send] => Leave Request
+    [Employee Name] => Maria  Perez
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Marial.perez4@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-11 11:33:56
+    [Employee Name] => Maria  Perez
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Marial.perez4@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-11 12:27:12
+    [Employee Name] => Cheeyl Dunahay
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Journey522@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-11 12:52:52
+    [mail Send] => Leave Request
+    [Employee Name] => Caitlin Templeton
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cait.templeton@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-11 14:37:51
+    [mail Send] => Leave Request
+    [Employee Name] => Regina  Rub
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.holiday@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-11 14:46:52
+    [mail Send] => Leave Request
+    [Employee Name] => Lisa DeCanzio
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to lisatool02@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-11 15:41:18
+    [mail Send] => Leave Request
+    [Employee Name] => Patricia Bernardino
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Dawnptrp@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-11 16:34:34
+    [Employee Name] => Caitlin Templeton
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to cait.templeton@gmail.com
+)

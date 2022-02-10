@@ -1,0 +1,22 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-28 09:11:10
+    [mail Send] => Leave Request
+    [Employee Name] => Maria Cavada
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to marialourdescavada@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-28 19:12:51
+    [mail Send] => Leave Request
+    [Employee Name] => Wendy  Leger
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to legwen822@yahoo.com
+)

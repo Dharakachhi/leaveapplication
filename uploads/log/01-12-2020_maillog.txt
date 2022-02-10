@@ -1,0 +1,195 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-01 03:00:42
+    [mail Send] => Leave Request
+    [Employee Name] => Danielle Barnes
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to barnesdanielle06@yahoo.co
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-01 09:21:52
+    [mail Send] => Leave Request
+    [Employee Name] => Clare Puopolo
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to clare.puopolo@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-01 11:26:56
+    [mail Send] => Leave Request
+    [Employee Name] => Erin   Gonzalez
+    [Email Send to HR] => Mail Send Error to  Mail Error: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.<br /><pre>Date: Tue, 1 Dec 2020 11:26:56 -0500
+From: &quot;Leave Application&quot; &lt;ttlr@tendertouch.com&gt;
+Return-Path: &lt;ttlr@tendertouch.com&gt;
+Reply-To: &lt;ttlr@tendertouch.com&gt;
+User-Agent: CodeIgniter
+X-Sender: ttlr@tendertouch.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5fc66ed05cf16@tendertouch.com&gt;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5fc66ed05cf29&quot;
+=?UTF-8?Q?Leave=20Request?=
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5fc66ed05cf29
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new leave request from Erin Gonzalez for the dates {requested Dates} has
+been made. Please log on to the portal to Approve or deny.
+
+
+--B_ALT_5fc66ed05cf29
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=3C=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1.0 Transitional//EN=22 =22h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd=22=3E
+ =3Chtml xmlns=3D=22http://www.w3.org/1999/xhtml=22=3E
+ =3Chead=3E
+ =3Cmeta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22 /=3E
+=20
+ =3Ctitle=3EActionable emails e.g. reset password=3C/title=3E
+ =3Cstyle=3E
+ =2A =7B
+ margin: 0=3B
+ font-family: =22Helvetica Neue=22, Helvetica, Arial, sans-serif=3B
+ box-sizing: border-box=3B
+ font-size: 14px=3B
+ =7D
+ body =7B
+ -webkit-font-smoothing: antialiased=3B
+ -webkit-text-size-adjust: none=3B
+ width: 100=25 =21important=3B
+ height: 100=25=3B
+ line-height: 1.6em=3B
+ =7D
+ body =7B background-color: =23f6f6f6=3B =7D
+ .body-wrap =7B background-color: =23f6f6f6=3B width: 100=25=3B =7D
+ .container =7B
+ display: block =21important=3B
+ max-width: 600px =21important=3B
+ margin: 0 auto =21important=3B
+ clear: both =21important=3B
+ =7D
+ a =7B color: =23348eda=3B text-decoration: underline=3B =7D
+ .btn-primary =7B
+ text-decoration: none=3B
+ color: =23FFF=3B
+ background-color: =23348eda=3B
+ border: solid =23348eda=3B
+ border-width: 10px 20px=3B
+ line-height: 2em=3B
+ font-weight: bold=3B
+ text-align: center=3B
+ cursor: pointer=3B
+ display: inline-block=3B
+ border-radius: 5px=3B
+ text-transform: capitalize=3B
+ =7D
+ =3C/style=3E
+ =3C/head=3E
+ =3Cbody itemscope itemtype=3D=22http://schema.org/EmailMessage=22=3E
+ A new leave request from Erin Gonzalez for the dates =7Brequested Dates=7D=
+ has been made. Please log on to the portal to Approve or deny.
+			=3C/body=3E
+			=3C/html=3E
+
+--B_ALT_5fc66ed05cf29--</pre>
+    [Email Send to Employee] => Mail Send Successfully to Erin.gonzalez123@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-01 11:42:02
+    [Employee Name] => Holly Rider
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to hrider12@verizon.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-01 12:03:48
+    [Employee Name] => Larran Styron
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Larranelizabeth@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-01 12:08:10
+    [Employee Name] => Antoinette Miraglia
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to antoinette.miraglia@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-01 12:16:46
+    [Employee Name] => Shanna Myers
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Jershan4@verizon.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-01 13:31:12
+    [Employee Name] => Danielle Barnes
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to barnesdanielle06@yahoo.co
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-01 14:26:38
+    [mail Send] => Leave Request
+    [Employee Name] => Kari Clark
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kari.clark1929@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-01 15:21:40
+    [mail Send] => Leave Request
+    [Employee Name] => Abigael Biggs
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to abbey.biggs@aol.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-01 15:35:07
+    [mail Send] => Leave Request
+    [Employee Name] => Jenna Marinello
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jenna_marinello@aol.com
+)

@@ -1,0 +1,108 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-04 11:14:28
+    [mail Send] => Leave Request
+    [Employee Name] => Charmaine Luceniada
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to maine.luceniada@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-04 11:21:41
+    [mail Send] => Leave Request
+    [Employee Name] => Ranelyn PalmairaManoto
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to mrpmanoto18@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-04 13:09:01
+    [mail Send] => Leave Request
+    [Employee Name] => Ranelyn Manoto
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to mrpmanoto18@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-04 13:17:08
+    [mail Send] => Leave Request
+    [Employee Name] => Ahmad Awadalla
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to aawadalla16@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-04 14:36:07
+    [Employee Name] => Julia Allshouse
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to allshousejulia@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-04 14:49:42
+    [Employee Name] => Lisa Bauman
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to lbaumanota@hotmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-04 14:55:00
+    [Employee Name] => Lucy Gallardo
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to lucygallardo_28@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-04 15:09:12
+    [Employee Name] => Charmaine Luceniada
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to maine.luceniada@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-04 15:10:24
+    [Employee Name] => Charmaine Luceniada
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to maine.luceniada@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-04 19:02:56
+    [mail Send] => Leave Request
+    [Employee Name] => Barbara Voshell
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to barbvoshell@gmail.com
+)

@@ -1,0 +1,269 @@
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-02-06 11:20:51
+    [Employee Name] => Jessica Solt
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to jsolt13@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.gwynedd@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-02-06 12:34:33
+    [Employee Name] => Jennifer Manganaro
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to restorehuc@tendertouch.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.chestnutnr@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-02-06 13:19:34
+    [Employee Name] => Jessica Solt
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to jsolt13@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.gwynedd@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-02-06 13:20:36
+    [Employee Name] => Jessica Solt
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+            [2] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to urip@tendertouch.com
+            [1] => Mail Send Successfully to timeandattendance@tendertouch.com
+            [2] => Mail Send Successfully to dhara.k288@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => Uri Plonka
+            [1] => Payroll Department
+            [2] => dhara Patel
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to jsolt13@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => TARF Approved for Payroll
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-02-06 13:20:44
+    [Employee Name] => Jessica Solt
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+            [2] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to urip@tendertouch.com
+            [1] => Mail Send Successfully to timeandattendance@tendertouch.com
+            [2] => Mail Send Successfully to dhara.k288@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => Uri Plonka
+            [1] => Payroll Department
+            [2] => dhara Patel
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to jsolt13@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => TARF Approved for Payroll
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-02-06 15:46:08
+    [Employee Name] => Kristen Burbridge
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to kristenburbridge@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.buckingham@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-02-06 15:47:00
+    [Employee Name] => Kristen Burbridge
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to kristenburbridge@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.buckingham@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-02-06 17:21:22
+    [mail Send] => Leave Request
+    [Employee Name] => Kristina VanderWall
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kmbuen@gmail.com
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-02-06 17:22:26
+    [Employee Name] => Vanessa Hyer
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to hyerpta@hotmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.king@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-02-06 17:35:17
+    [Employee Name] => Kristen Burbridge
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+            [2] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to urip@tendertouch.com
+            [1] => Mail Send Successfully to timeandattendance@tendertouch.com
+            [2] => Mail Send Successfully to dhara.k288@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => Uri Plonka
+            [1] => Payroll Department
+            [2] => dhara Patel
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to kristenburbridge@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => TARF Approved for Payroll
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-02-06 17:42:34
+    [Employee Name] => Kristen Burbridge
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+            [2] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to urip@tendertouch.com
+            [1] => Mail Send Successfully to timeandattendance@tendertouch.com
+            [2] => Mail Send Successfully to dhara.k288@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => Uri Plonka
+            [1] => Payroll Department
+            [2] => dhara Patel
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to kristenburbridge@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => TARF Approved for Payroll
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-02-06 17:48:03
+    [Employee Name] => amy wujick
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to amyquesto@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.elmwoodhls@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-02-06 18:30:33
+    [Employee Name] => Mitchell Asch
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to aschmitchell@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.cliveden@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-02-06 18:31:21
+    [Employee Name] => Mitchell Asch
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to aschmitchell@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.cliveden@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-02-06 19:02:04
+    [Employee Name] => John Rocha
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to johnrocha@optimum.net
+    [Email Send to Supervisor] => Mail Send Successfully to sup.hampton@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)

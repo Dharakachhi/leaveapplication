@@ -1,0 +1,10 @@
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2020-11-19 03:25:58
+    [Employee Name] => test test
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to test84587@gmail.com
+)

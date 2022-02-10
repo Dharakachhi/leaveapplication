@@ -1,0 +1,2025 @@
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 00:09:26
+    [Employee Name] => meghatest1023 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => 
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 00:11:31
+    [Employee Name] => meghatest1023 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => 
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-19 00:17:41
+    [Employee Name] => meghatest1023 makwana
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Denied
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 00:25:54
+    [Employee Name] => meghatest1023 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+            [2] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to meghatest5678@gmail.com
+            [1] => Mail Send Successfully to cmp19000@gmail.com
+            [2] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => megha makwana
+            [1] => CHAIM POLLAK
+            [2] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => 
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-19 00:46:29
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 00:51:23
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-19 00:54:19
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Denied
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-19 01:02:32
+    [mail Send] => Leave Request
+    [Employee Name] => Ilana Setzer
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.leisure@tendertouch.com
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 01:02:45
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 01:04:38
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 01:05:54
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 01:06:59
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 01:07:41
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 01:09:38
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 01:15:24
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 01:22:22
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 01:24:51
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 01:27:02
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-19 01:30:36
+    [Employee Name] => meghatest1159 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 01:32:53
+    [Employee Name] => meghatest1159 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 01:35:02
+    [Employee Name] => meghatest1159 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 01:37:11
+    [Employee Name] => meghatest1159 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 01:44:29
+    [Employee Name] => meghatest1159 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-19 01:46:57
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 01:47:51
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-19 01:50:25
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Denied
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 01:51:36
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 01:53:30
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 01:54:55
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 01:55:50
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 02:09:59
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 02:14:12
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-19 02:15:18
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Denied
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 02:15:54
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 02:16:40
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 02:17:40
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 02:18:55
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 02:19:31
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 02:21:33
+    [Employee Name] => meghatest1215 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 02:25:38
+    [Employee Name] => meghatest1215t makwanat
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 02:30:29
+    [Employee Name] => meghatest1159 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 02:33:10
+    [Employee Name] => meghatest1159 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+            [2] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to meghatest5678@gmail.com
+            [1] => Mail Send Successfully to cmp19000@gmail.com
+            [2] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => megha makwana
+            [1] => CHAIM POLLAK
+            [2] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-19 04:18:02
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 04:20:13
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 04:22:26
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 04:22:55
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 04:25:13
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 04:27:21
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 04:34:14
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 04:35:46
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 04:42:21
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+            [2] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to meghatest5678@gmail.com
+            [1] => Mail Send Successfully to cmp19000@gmail.com
+            [2] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => megha makwana
+            [1] => CHAIM POLLAK
+            [2] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 04:46:25
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 04:55:12
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+            [2] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to meghatest5678@gmail.com
+            [1] => Mail Send Successfully to cmp19000@gmail.com
+            [2] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => megha makwana
+            [1] => CHAIM POLLAK
+            [2] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 05:02:37
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 05:21:06
+    [Employee Name] => meghatest1115 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to meghatest5678@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 05:38:45
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 05:43:23
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-19 05:47:07
+    [Employee Name] => megha1615 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-19 05:51:09
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 05:56:52
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-19 05:58:37
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Denied
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 06:00:08
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 06:00:51
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 06:03:35
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 06:38:52
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 06:40:59
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 06:42:30
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 06:43:35
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 06:45:43
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 06:51:41
+    [Employee Name] => meghatest1620 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-19 07:25:30
+    [Employee Name] => meghatest1446 makwana
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Denied
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-19 07:30:14
+    [Employee Name] => meghatest1758 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 07:32:19
+    [Employee Name] => meghatest1758 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-19 07:34:19
+    [Employee Name] => meghatest1803 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 07:56:55
+    [Employee Name] => meghatest1803 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 08:00:15
+    [Employee Name] => meghatest1803 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 08:02:50
+    [Employee Name] => meghatest1803 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 08:04:09
+    [Employee Name] => meghatest1803 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-19 08:08:14
+    [Employee Name] => meghatest1836 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 08:11:21
+    [Employee Name] => meghatest1836 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Denied -------------
+Array
+(
+    [date] => 2021-01-19 08:13:14
+    [Employee Name] => meghatest1836 makwana
+    [mail Send] => Punch Request Denied
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Denied
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 08:14:18
+    [Employee Name] => meghatest1836 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 08:17:10
+    [Employee Name] => meghatest1836 makwana
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 08:26:10
+    [Employee Name] => meghatest1836 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 08:27:49
+    [Employee Name] => meghatest1836 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Canceled -------------
+Array
+(
+    [date] => 2021-01-19 08:28:17
+    [Employee Name] => meghatest1836 makwana
+    [mail Send] => Punch Request Canceled
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [mail subject] => TARF Canceled
+    [mail subject to supervisor] => supervisor Canceled
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 08:38:24
+    [Employee Name] => megha1615 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 08:41:17
+    [Employee Name] => megha1615 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-19 09:02:10
+    [Employee Name] => meghatest1931 makwana
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to globletest123@gmail.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 09:03:56
+    [Employee Name] => meghatest1931 makwana
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to sutariyamegha933@gmail.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-19 10:06:31
+    [Employee Name] => Ilana Setzer
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sup.leisure@tendertouch.com
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-01-19 10:58:21
+    [Employee Name] => CHAIM POLLAK
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+    [Email Send to Supervisor] => Mail Send Successfully to chaim@cmpollak.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
+
+
+---------- Punch Request Approved -------------
+Array
+(
+    [date] => 2021-01-19 11:00:24
+    [Employee Name] => CHAIM POLLAK
+    [mail Send] => Array
+        (
+            [0] => Punch Request Approved
+            [1] => Punch Request Approved
+        )
+
+    [Email Send to HR] => Array
+        (
+            [0] => Mail Send Successfully to cmp19000@gmail.com
+            [1] => Mail Send Successfully to mehultest5699@gmail.com
+        )
+
+    [Hr name] => Array
+        (
+            [0] => CHAIM POLLAK
+            [1] => mehultest makwana
+        )
+
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+    [mail subject] => TARF Approved
+    [mail subject to HR] => HR Approved
+)
+
+
+---------- Punch Request Completed -------------
+Array
+(
+    [date] => 2021-01-19 11:02:30
+    [Employee Name] => CHAIM POLLAK
+    [mail Send] => Punch Request Completed
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+    [Email Send to Supervisor] => Mail Send Successfully to chaim@cmpollak.com
+    [mail subject] => TARF Completed
+    [mail subject to supervisor] => supervisor Completed
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-19 15:00:43
+    [Employee Name] => Cathleen  DeZolt
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Dustyluv621@aol.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-19 16:03:51
+    [mail Send] => Leave Request
+    [Employee Name] => Shannon  Heil
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to shannon.a.heil@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-19 16:06:30
+    [mail Send] => Leave Request
+    [Employee Name] => Tricia  Manning
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to tm62253@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-19 16:22:58
+    [mail Send] => Leave Request
+    [Employee Name] => Tejal Sanover
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to tejal2007@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-19 16:25:45
+    [Employee Name] => Evan Gray
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to theevan.gray2001@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-19 17:00:12
+    [Employee Name] => Tricia  Manning
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to tm62253@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-19 17:09:06
+    [Employee Name] => Claire Edwards
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to credwards213@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-19 17:12:55
+    [mail Send] => Leave Request
+    [Employee Name] => Drew Bieber
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to dbieber1@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-19 18:17:37
+    [mail Send] => Leave Request
+    [Employee Name] => Megan Cunningham
+    [Email Send to HR] => Mail Send Successfully to dhara.k288@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to megckenney@hotmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-19 20:56:47
+    [Employee Name] => Shannon  Heil
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to shannon.a.heil@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-19 21:04:43
+    [Employee Name] => Megan Cunningham
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to megckenney@hotmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-19 21:19:20
+    [Employee Name] => Tejal Sanover
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to tejal2007@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-19 23:53:50
+    [mail Send] => Leave Request
+    [Employee Name] => meghatest1020 makwana
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to meghatest5678@gmail.com
+)

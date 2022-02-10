@@ -1,0 +1,83 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-11 10:09:22
+    [Employee Name] => Mary Kathleen Cana
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to marykathleen34@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-11 10:45:49
+    [Employee Name] => Ethel Dunbar 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to etheldunbar@icloud.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-11 11:46:23
+    [mail Send] => Leave Request
+    [Employee Name] => April Morris
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.oakwoodmd@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-11 12:22:14
+    [mail Send] => Leave Request
+    [Employee Name] => Becky McCullough
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to bec2192@verizon.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-11 16:06:32
+    [Employee Name] => Becky McCullough
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to bec2192@verizon.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-11 16:15:34
+    [Employee Name] => April Morris
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sup.oakwoodmd@tendertouch.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-11 16:37:21
+    [Employee Name] => Sarah Martel
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to SarahKlic4@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-11 19:03:59
+    [mail Send] => Leave Request
+    [Employee Name] => Sierra Wright
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to ssat_2004@yahoo.com
+)

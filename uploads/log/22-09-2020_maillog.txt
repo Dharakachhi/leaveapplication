@@ -1,0 +1,220 @@
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-22 04:41:54
+    [Employee Name] => Test Destiny
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to testoffice9@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-22 08:54:46
+    [mail Send] => Leave Request
+    [Employee Name] => Jeffrey Langan
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jefflangan82@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-22 09:59:43
+    [Employee Name] => Mark Trachtenberg
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Giants1229@optonline.net
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-22 10:21:07
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim Pollak
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaim@cmpollak.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-22 10:34:00
+    [Employee Name] => Jeffrey Langan
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jefflangan82@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-22 11:13:14
+    [mail Send] => Leave Request
+    [Employee Name] => Unita Thadani 
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to unita63@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-22 11:50:49
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim W
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-22 11:53:13
+    [Employee Name] => Unita Thadani 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to unita63@gmail.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-22 11:53:27
+    [Employee Name] => Chaim W
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-22 11:53:36
+    [Employee Name] => Chaim Pollak
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaim@cmpollak.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-22 13:29:02
+    [mail Send] => Leave Request
+    [Employee Name] => Patricia  R. S. Pannett
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to ppannett@sunrisetherapytt.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-22 17:02:33
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim w
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-22 17:07:45
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim w
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-22 17:27:49
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim w
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-22 18:07:46
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim w
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-22 20:23:00
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim Pollak
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-22 21:33:34
+    [Employee Name] => Chaim Pollak
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-22 21:33:44
+    [Employee Name] => Chaim w
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-22 21:33:57
+    [Employee Name] => Chaim w
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-22 21:34:07
+    [Employee Name] => Chaim w
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-22 21:34:16
+    [Employee Name] => Chaim w
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)

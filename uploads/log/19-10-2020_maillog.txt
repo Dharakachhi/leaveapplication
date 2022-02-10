@@ -1,0 +1,125 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-19 09:30:30
+    [mail Send] => Leave Request
+    [Employee Name] => Marissa  Dela Cruz
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to mardelax@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-19 09:33:49
+    [mail Send] => Leave Request
+    [Employee Name] => Rafael Magdaleno 
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to rafael_addario@yahoo.com.br
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-19 12:33:15
+    [Employee Name] => Rafael Magdaleno 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to rafael_addario@yahoo.com.br
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-19 15:09:56
+    [mail Send] => Leave Request
+    [Employee Name] => Joanne Bensky
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to drbensky@optonline.net
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-19 15:25:55
+    [mail Send] => Leave Request
+    [Employee Name] => Michael Diansen
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to quiksilverglobe@yahoo.com.ph
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-19 16:14:55
+    [Employee Name] => Nortelina  Casanova 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to nortegtolentino@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-19 16:32:28
+    [Employee Name] => Catherine Burba
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to cburba424@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-19 16:41:32
+    [Employee Name] => Erin  Gonzalez
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Erin.gonzalez123@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-19 16:42:55
+    [Employee Name] => Jeffrey Langan
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jefflangan82@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-19 16:44:35
+    [Employee Name] => Michael Diansen
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to quiksilverglobe@yahoo.com.ph
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-19 16:50:53
+    [Employee Name] => Joanne Bensky
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to drbensky@optonline.net
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-19 19:30:42
+    [mail Send] => Leave Request
+    [Employee Name] => adina greenbaum
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to adinagreenbin@gmail.com
+)

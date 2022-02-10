@@ -1,0 +1,218 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-16 10:11:11
+    [mail Send] => Leave Request
+    [Employee Name] => EMILY RUCH
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to EmilyLoweCCCSLP@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 10:41:34
+    [Employee Name] => Kathryn Mangapora
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kmangapora15@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-16 10:42:20
+    [mail Send] => Leave Request
+    [Employee Name] => Collins Donaldson
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to andwan@verizon.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 10:56:42
+    [Employee Name] => EMILY RUCH
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to EmilyLoweCCCSLP@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 11:17:01
+    [Employee Name] => Kristoffer Rivera
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kristofferrivera4@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-16 11:18:03
+    [mail Send] => Leave Request
+    [Employee Name] => Matthew Poko
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to matthewrpoko@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-16 11:22:45
+    [mail Send] => Leave Request
+    [Employee Name] => Lauren Baer
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Laurenjp29@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 11:27:07
+    [Employee Name] => Tiffany  Guerrero
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to finniept@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 11:27:39
+    [Employee Name] => Matthew Poko
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to matthewrpoko@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 11:55:26
+    [Employee Name] => Patricia Demartino
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Fergiephoebe12@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-16 11:58:38
+    [mail Send] => Leave Request
+    [Employee Name] => Matthew March
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to mattmarch13@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 12:10:20
+    [Employee Name] => Matthew March
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to mattmarch13@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 12:13:38
+    [Employee Name] => Lauren Baer
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Laurenjp29@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 12:14:54
+    [Employee Name] => Lauren Baer
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Laurenjp29@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 12:22:33
+    [Employee Name] => Julianne Gorge
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sup.buckingham@tendertouch.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 12:25:21
+    [Employee Name] => Julianne Gorge
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to julianne.gorge@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 12:30:53
+    [Employee Name] => Kristen  Burbridge
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kristenburbridge@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-16 12:33:54
+    [Employee Name] => Collins Donaldson
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to andwan@verizon.net
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-16 14:36:23
+    [mail Send] => Leave Request
+    [Employee Name] => Danielle Hannon
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to daniclaire1129@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-16 14:41:24
+    [mail Send] => Leave Request
+    [Employee Name] => Pasquale Morvillo
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to pmorvill@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-16 14:52:31
+    [mail Send] => Leave Request
+    [Employee Name] => Vitor Nunes
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Nunes_14_@hotmail.com
+)

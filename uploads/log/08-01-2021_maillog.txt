@@ -1,0 +1,141 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-08 07:00:18
+    [mail Send] => Leave Request
+    [Employee Name] => Penina Ribowsky
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to peninaribowsky@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-08 08:30:39
+    [mail Send] => Leave Request
+    [Employee Name] => Malvin Perez
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to malvin.perez@ymail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-08 09:17:32
+    [Employee Name] => Ermol Villareal
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to bukoy_net@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-08 09:19:19
+    [Employee Name] => Irene Munoz-Gudiel
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to irenegudiel@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-08 09:35:17
+    [Employee Name] => rodriguez ronald
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to ptaronrod@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-08 09:46:23
+    [Employee Name] => Alexandra McArdle
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Alexmcardle21@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-08 09:59:33
+    [Employee Name] => Penina Ribowsky
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to peninaribowsky@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-08 10:02:31
+    [Employee Name] => Malvin Perez
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to malvin.perez@ymail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-08 10:45:20
+    [mail Send] => Leave Request
+    [Employee Name] => Michael  McGowan
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to MikeMcG1220@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-08 12:07:49
+    [mail Send] => Leave Request
+    [Employee Name] => CHARMAINE CASALS
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cha2xcasals@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-08 13:07:30
+    [mail Send] => Leave Request
+    [Employee Name] => Keren Kagan
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kfishbain22@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-08 13:31:05
+    [mail Send] => Leave Request
+    [Employee Name] => shree parekh
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to ot.shree@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-08 14:03:04
+    [Employee Name] => CHARMAINE CASALS
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to cha2xcasals@gmail.com
+)

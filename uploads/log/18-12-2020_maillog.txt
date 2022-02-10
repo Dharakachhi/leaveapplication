@@ -1,0 +1,84 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-18 09:28:03
+    [mail Send] => Leave Request
+    [Employee Name] => Chris Jovino
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cjovino@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-18 11:00:05
+    [mail Send] => Leave Request
+    [Employee Name] => Anna Rossman
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chanarossman@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-18 13:55:22
+    [mail Send] => Leave Request
+    [Employee Name] => Stephanie  Kenneally 
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Stephanie.blanar@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-18 14:10:47
+    [Employee Name] => Usama Abdelghany
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to usamaa1@hotmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-18 14:24:31
+    [Employee Name] => Chris Jovino
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to cjovino@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-18 14:56:07
+    [mail Send] => Leave Request
+    [Employee Name] => Cheryl Dunahay
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Journey522@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-18 16:01:43
+    [Employee Name] => Shanaz Martin
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to shanazmartin1@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-18 16:06:25
+    [Employee Name] => Anna Rossman
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to chanarossman@gmail.com
+)

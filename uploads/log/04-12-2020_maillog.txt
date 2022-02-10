@@ -1,0 +1,176 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-04 09:52:39
+    [Employee Name] => Jonita Rivas
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jonitz@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-04 10:58:34
+    [mail Send] => Leave Request
+    [Employee Name] => Andrea Tortorella
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to andreagrace.tortorella@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-04 11:19:02
+    [mail Send] => Leave Request
+    [Employee Name] => Elizabeth  Demicco
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Lizdemicco@icloud.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-04 11:32:40
+    [mail Send] => Leave Request
+    [Employee Name] => Dawn  Kinsella 
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Dkins615@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-04 11:56:52
+    [mail Send] => Leave Request
+    [Employee Name] => Karla Greth
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to karlagreth@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-04 12:25:59
+    [Employee Name] => Andrea Tortorella
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to andreagrace.tortorella@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-04 12:46:44
+    [mail Send] => Leave Request
+    [Employee Name] => Catherine Burba
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to cburba424@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-04 12:52:02
+    [mail Send] => Leave Request
+    [Employee Name] => Mary Neff
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jdneff34@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-04 13:40:50
+    [Employee Name] => Mitchell  Asch
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Aschmitchell@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-04 14:07:05
+    [Employee Name] => Dawn  Kinsella 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Dkins615@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-04 14:12:13
+    [Employee Name] => Karla Greth
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to karlagreth@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-04 14:18:28
+    [Employee Name] => Karla Greth
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to karlagreth@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-04 14:32:52
+    [Employee Name] => Catherine Burba
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to cburba424@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-04 14:38:00
+    [Employee Name] => Catherine Burba
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to cburba424@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-04 14:47:13
+    [Employee Name] => Elizabeth  Demicco
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Lizdemicco@icloud.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-04 14:56:48
+    [Employee Name] => Catherine Burba
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to cburba424@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-04 16:40:51
+    [Employee Name] => Mary Neff
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jdneff34@yahoo.com
+)

@@ -1,0 +1,144 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-29 09:45:11
+    [mail Send] => Leave Request
+    [Employee Name] => Jinnie James
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to j.james811@gmail.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2020-10-29 09:51:43
+    [Employee Name] => Chloe Trave
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to chloetrave@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-29 09:54:28
+    [Employee Name] => Joycy Villanueva
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to joycy_v@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-29 10:25:00
+    [mail Send] => Leave Request
+    [Employee Name] => RIVKA FOGEL
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to rivkalaifer@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-29 10:25:20
+    [Employee Name] => Desiree Wolford
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to wwolford308@comcast.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-29 11:37:49
+    [Employee Name] => RIVKA FOGEL
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to rivkalaifer@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-29 11:40:11
+    [Employee Name] => Helen Arabiana
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Cayabyabhelengrace@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-29 11:52:18
+    [Employee Name] => Kristy Savino-Oertel
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kms265@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-29 12:41:42
+    [mail Send] => Leave Request
+    [Employee Name] => Jeremy  Pashak
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to JeremyPashak@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-29 13:25:21
+    [Employee Name] => Lauren Goodwin
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to laurenagoodwin22@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-29 13:53:09
+    [Employee Name] => Jinnie James
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to j.james811@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-29 14:09:39
+    [Employee Name] => Brandon Litzenberger
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to blitzenberger@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-29 14:12:38
+    [Employee Name] => Antonio Jr Caberte
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to antonio.caberte2016@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-29 15:00:15
+    [mail Send] => Leave Request
+    [Employee Name] => Harry  Jung
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to curiousoldme@aol.com
+)

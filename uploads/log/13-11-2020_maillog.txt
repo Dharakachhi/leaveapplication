@@ -1,0 +1,105 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-13 08:57:39
+    [mail Send] => Leave Request
+    [Employee Name] => Robert Mahon
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to rjmahon0@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-13 10:28:06
+    [mail Send] => Leave Request
+    [Employee Name] => Sarah Ferraro
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Ferraro.j.sarah@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-13 10:59:25
+    [Employee Name] => Hyun Jeong Lim
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to limhj24@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-13 11:18:31
+    [mail Send] => Leave Request
+    [Employee Name] => Elizabeth  Kline
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Elizabethjkline@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-13 11:48:23
+    [mail Send] => Leave Request
+    [Employee Name] => Kathryn Mangapora
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kmangapora15@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-13 12:11:04
+    [Employee Name] => Robert Mahon
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to rjmahon0@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-13 12:19:48
+    [Employee Name] => Sarah Ferraro
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Ferraro.j.sarah@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-13 13:26:14
+    [Employee Name] => Elizabeth  Kline
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Elizabethjkline@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-11-13 14:45:29
+    [Employee Name] => Elizabeth  Kline
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Elizabethjkline@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-13 15:35:10
+    [mail Send] => Leave Request
+    [Employee Name] => Patricia Demartino
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Fergiephoebe12@gmail.com
+)

@@ -1,0 +1,94 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-16 06:38:22
+    [mail Send] => Leave Request
+    [Employee Name] => Susan  Neece
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sschmoldt88@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-16 10:06:04
+    [Employee Name] => Michyl Patigdas
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to michyl1982@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-16 10:57:28
+    [mail Send] => Leave Request
+    [Employee Name] => Garrison Spencer
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to g.spencer93@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-16 11:36:06
+    [Employee Name] => Joshua Medina
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to joshua.medina93@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-16 11:44:49
+    [Employee Name] => matthew poko
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to matthewrpoko@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-16 11:55:21
+    [Employee Name] => Susan  Neece
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sschmoldt88@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-16 11:57:35
+    [mail Send] => Leave Request
+    [Employee Name] => Rela Wenger
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Relae@Sunrisetherapytt.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-16 12:07:27
+    [Employee Name] => Garrison Spencer
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to g.spencer93@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-16 13:34:22
+    [mail Send] => Leave Request
+    [Employee Name] => Ashley Jeune
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to ajeune87@gmail.com
+)

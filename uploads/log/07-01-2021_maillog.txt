@@ -1,0 +1,139 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-07 09:58:22
+    [Employee Name] => Ashley Aiello
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to ashlley09@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-07 10:26:07
+    [Employee Name] => Tziporah Rosenberg 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Dsgelb@msn.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-07 10:31:15
+    [mail Send] => Leave Request
+    [Employee Name] => Joshua Reyes
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Joshua.reyesot@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-07 10:47:52
+    [Employee Name] => Daniel McCarron
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to daniel.mccarron60@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-07 11:25:20
+    [Employee Name] => Shree Parekh
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to ot.shree@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-07 11:33:58
+    [Employee Name] => Shelby Wald
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to shelbywald@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-07 11:55:43
+    [Employee Name] => Sara Ridgway
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sridgway2014@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-07 12:12:47
+    [Employee Name] => Joshua Reyes
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Joshua.reyesot@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-07 13:03:57
+    [Employee Name] => Angie Bookhamer
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to akbookhamer@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-07 13:14:02
+    [mail Send] => Leave Request
+    [Employee Name] => Irene Munoz-Gudiel
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.hamiltongrove@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-07 15:32:38
+    [mail Send] => Leave Request
+    [Employee Name] => rodriguez ronald
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to ptaronrod@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-07 17:13:29
+    [mail Send] => Leave Request
+    [Employee Name] => Alexandra McArdle
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Alexmcardle21@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-07 17:42:53
+    [mail Send] => Leave Request
+    [Employee Name] => Ermol Villareal
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to bukoy_net@yahoo.com
+)

@@ -1,0 +1,148 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-30 07:25:33
+    [mail Send] => Leave Request
+    [Employee Name] => Leo Samonte
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to leosamjr@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-30 11:49:29
+    [mail Send] => Leave Request
+    [Employee Name] => Linda Stangenberg
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.westhamptoncarecenter@tendertouch.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-30 11:50:10
+    [Employee Name] => Vener Medina
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Venermedina@me.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-30 12:13:46
+    [Employee Name] => Timmy Maik
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to timmy_maik@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-30 12:22:54
+    [mail Send] => Leave Request
+    [Employee Name] => Jennifer Denniston
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jrdenniston80@verizon.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-30 12:56:48
+    [Employee Name] => Eric Smith
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to erismi1020@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-30 13:17:13
+    [Employee Name] => Jennifer  Suchecki
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Cotajenny@hotmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-30 13:41:41
+    [Employee Name] => Leo Samonte
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to leosamjr@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-30 13:49:48
+    [Employee Name] => Raphael Njoku
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to rknjoku@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-30 14:18:39
+    [Employee Name] => Linda Stangenberg
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to otlind@aol.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-30 15:27:23
+    [mail Send] => Leave Request
+    [Employee Name] => William Tiu
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chumineto@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-30 15:28:01
+    [mail Send] => Leave Request
+    [Employee Name] => Cindy Orenstein
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Ceorenstein@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-30 16:32:00
+    [Employee Name] => Jennifer Denniston
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jrdenniston80@verizon.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-30 16:35:20
+    [Employee Name] => Jennifer Denniston
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jrdenniston80@verizon.net
+)

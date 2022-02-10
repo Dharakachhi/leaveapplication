@@ -1,0 +1,54 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-11 09:31:39
+    [Employee Name] => Chaya Levine
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to cblevine710@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-11 11:46:03
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim Pollak
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to requestal@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-11 11:49:36
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim w
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@techmasterpcs.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-11 12:01:15
+    [mail Send] => Leave Request
+    [Employee Name] => Chaim w
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to chaimw@tendertouch.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-11 13:14:17
+    [mail Send] => Leave Request
+    [Employee Name] => Aielene Castro
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to aieh0207@yahoo.com
+)

@@ -1,0 +1,22 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-26 00:46:38
+    [mail Send] => Leave Request
+    [Employee Name] => Test Leave Destiny
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to dhara.kachchhi28@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-26 00:52:32
+    [mail Send] => Leave Request
+    [Employee Name] => Test Leave Destiny
+    [Email Send to HR] => Mail Send Successfully to dhara.k288@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to dhara.kachchhi28@gmail.com
+)

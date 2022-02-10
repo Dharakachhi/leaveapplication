@@ -1,0 +1,22 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-09 10:01:15
+    [mail Send] => Leave Request
+    [Employee Name] => Idowu Adekanmbi
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to id4us01@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-09 13:18:28
+    [mail Send] => Leave Request
+    [Employee Name] => Ronald  Martin
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to ronaldmarkmichael@gmail.com
+)

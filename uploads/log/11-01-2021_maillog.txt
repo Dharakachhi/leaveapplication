@@ -1,0 +1,207 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-11 10:18:24
+    [mail Send] => Leave Request
+    [Employee Name] => Kathleen McPhillips
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kathleensmcphillips@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-11 11:32:03
+    [mail Send] => Leave Request
+    [Employee Name] => Elisha Muntazer
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Elisha.Muntazar@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-11 11:50:52
+    [mail Send] => Leave Request
+    [Employee Name] => Lauren Saal
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to laurensaal@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-11 12:10:28
+    [mail Send] => Leave Request
+    [Employee Name] => Nirali Kakadia
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to nirali_p2000@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-11 12:12:31
+    [mail Send] => Leave Request
+    [Employee Name] => Nicolette Scorsone
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Scorsone30n@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-11 12:23:07
+    [Employee Name] => Nirali Kakadia
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to nirali_p2000@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-11 12:28:30
+    [mail Send] => Leave Request
+    [Employee Name] => Kristoffer Rivera
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kristofferrivera4@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-11 13:20:45
+    [Employee Name] => Riya Lodha
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to riya.lodha@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-11 13:29:08
+    [Employee Name] => Michael  McGowan
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to MikeMcG1220@hotmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-11 13:31:00
+    [mail Send] => Leave Request
+    [Employee Name] => Bianca Buonomo
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to bbuonomo.93@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-11 13:31:42
+    [Employee Name] => shree parekh
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to ot.shree@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-11 13:40:11
+    [Employee Name] => Emily Phillips
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to emily.phillips1101@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-11 13:44:20
+    [Employee Name] => Jessica Harris
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jalishia@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-11 14:12:51
+    [mail Send] => Leave Request
+    [Employee Name] => Deborah Berger
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Debbedo@comcast.net
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-11 15:01:57
+    [Employee Name] => Kathleen McPhillips
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kathleensmcphillips@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-11 15:17:06
+    [Employee Name] => Jessica Harris
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jalishia@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2021-01-11 15:36:27
+    [Employee Name] => Alkaid Giabia
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to alkaid_giabia@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-11 16:19:39
+    [mail Send] => Leave Request
+    [Employee Name] => Edward Ivanchenko
+    [Email Send to HR] => Mail Send Successfully to hral@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to edwardivanchenko@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-01-11 16:34:24
+    [mail Send] => Leave Request
+    [Employee Name] => Feliz Marie Solis
+    [Email Send to HR] => Mail Send Successfully to hrmz@tendertouch.com
+    [Email Send to default HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to solisfeliz@gmail.com
+)

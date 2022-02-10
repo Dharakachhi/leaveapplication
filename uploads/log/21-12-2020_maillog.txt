@@ -1,0 +1,75 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-21 09:39:04
+    [mail Send] => Leave Request
+    [Employee Name] => Emily Dagradi
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Emilydagradi@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-21 13:20:22
+    [mail Send] => Leave Request
+    [Employee Name] => Ma Jenny Faye  Bernardo
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to jennyfayeot@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-21 13:22:36
+    [mail Send] => Leave Request
+    [Employee Name] => Welson Tagsip
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to wct2016@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-21 13:50:50
+    [mail Send] => Leave Request
+    [Employee Name] => Annrey Ellazar
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Annrey_jsd@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-21 15:25:42
+    [Employee Name] => Ashley Jeune
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to ajeune87@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-21 15:52:56
+    [Employee Name] => Stephanie  Kenneally 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Stephanie.blanar@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-21 20:26:38
+    [mail Send] => Leave Request
+    [Employee Name] => Aielene Castro
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to aieh0207@yahoo.com
+)

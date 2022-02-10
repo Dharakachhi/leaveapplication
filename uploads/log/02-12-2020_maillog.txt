@@ -1,0 +1,156 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-02 08:23:05
+    [mail Send] => Leave Request
+    [Employee Name] => Tricia Hoover
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to trishhoover.vb@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-02 09:06:53
+    [mail Send] => Leave Request
+    [Employee Name] => Marco Udpaga
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to marco.udpaga@temple.edu
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-02 09:18:36
+    [mail Send] => Leave Request
+    [Employee Name] => Abigael Biggs
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to abbey.biggs1227@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-02 10:54:04
+    [Employee Name] => Sheila  Avinante 
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to sup.somerset@tendertouch.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-02 10:58:00
+    [Employee Name] => Abigael Biggs
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to abbey.biggs@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-02 10:58:48
+    [Employee Name] => Clare Puopolo
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to clare.puopolo@yahoo.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-02 11:04:33
+    [Employee Name] => Jenna Marinello
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to jenna_marinello@aol.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-02 11:12:31
+    [Employee Name] => Marco Udpaga
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to marco.udpaga@temple.edu
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-02 12:35:52
+    [mail Send] => Leave Request
+    [Employee Name] => Sarah marceca
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to s.marceca@aol.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-02 13:16:20
+    [mail Send] => Leave Request
+    [Employee Name] => Shannon Pavone
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Pavone.shannon@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-02 13:38:56
+    [Employee Name] => Abigael Biggs
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to abbey.biggs1227@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-02 13:41:33
+    [Employee Name] => Tricia Hoover
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to trishhoover.vb@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-02 13:46:43
+    [Employee Name] => Kari Clark
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to kari.clark1929@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-12-02 14:13:09
+    [mail Send] => Leave Request
+    [Employee Name] => Natalie Miller
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Nataliemariemiller95@gmail.com
+)
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-12-02 14:46:45
+    [Employee Name] => Tricia Hoover
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to trishhoover.vb@gmail.com
+)

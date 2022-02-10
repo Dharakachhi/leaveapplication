@@ -1,0 +1,31 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-09-21 11:16:54
+    [Employee Name] => Frederic Lim
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to iko_lim@yahoo.com
+)
+
+
+---------- Leave Denied -------------
+Array
+(
+    [date] => 2020-09-21 13:05:38
+    [Employee Name] => Chaim Pollak
+    [mail Send] => Leave Denied
+    [Email Send to Employee] => Mail Send Successfully to cmp1900@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-09-21 16:31:21
+    [mail Send] => Leave Request
+    [Employee Name] => Mark Trachtenberg
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to Giants1229@optonline.net
+)

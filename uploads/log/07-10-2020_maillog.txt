@@ -1,0 +1,32 @@
+
+
+---------- Leave Approved -------------
+Array
+(
+    [date] => 2020-10-07 10:40:01
+    [Employee Name] => Heather Nybo
+    [mail Send] => Leave Approved
+    [Email Send to Employee] => Mail Send Successfully to Heather.nybo@yahoo.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-07 14:19:02
+    [mail Send] => Leave Request
+    [Employee Name] => Kendra Wheeler
+    [Email Send to HR] => Mail Send Successfully to requestmz@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to kendrawheelerslp@gmail.com
+)
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-10-07 18:54:34
+    [mail Send] => Leave Request
+    [Employee Name] => Christy Donaldson
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to sup.hearthside@tendertouch.com
+)

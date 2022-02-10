@@ -1,0 +1,21 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2020-11-04 14:34:48
+    [mail Send] => Leave Request
+    [Employee Name] => Courtney Knutsen
+    [Email Send to HR] => Mail Send Successfully to requestal@tendertouch.com
+    [Email Send to Employee] => Mail Send Successfully to courtneyknutsen@gmail.com
+)
+
+
+---------- Leave Cancelled -------------
+Array
+(
+    [date] => 2020-11-04 15:48:50
+    [Employee Name] => Jeremy  Pashak
+    [mail Send] => Leave Cancelled
+    [Email Send to Employee] => Mail Send Successfully to JeremyPashak@gmail.com
+)

@@ -1,0 +1,24 @@
+
+
+---------- Leave Request -------------
+Array
+(
+    [date] => 2021-03-06 03:43:30
+    [mail Send] => Leave Request
+    [Employee Name] => Michelle Schlechtweg 
+    [Email Send to HR] => Mail Send Successfully to testoffice9@gmail.com
+    [Email Send to Employee] => Mail Send Successfully to Mschlechtweg@gmail.com
+)
+
+
+---------- Punch Request New -------------
+Array
+(
+    [date] => 2021-03-06 20:35:11
+    [Employee Name] => Beth Dinsay
+    [mail Send] => Punch Request New
+    [Email Send to Employee] => Mail Send Successfully to jeanrilljosh@gmail.com
+    [Email Send to Supervisor] => Mail Send Successfully to sup.grandell1@tendertouch.com
+    [employee mail subject] => TARF Confirmation
+    [supervisor mail subject] => TARF Approval Needed
+)
